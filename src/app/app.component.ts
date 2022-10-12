@@ -1,36 +1,46 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ElementRef, ViewChild } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
+  
+  test: any;
+  @ViewChild('inputFichero') _input: ElementRef;
+  
+
+  constructor() {
+    console.log('Iniciamos...');    
+  }
+
+  cargarArchivo(e) {
+    let res;
+    const fichero = e.target.files[0];
+    if (!fichero) return;
+    const reader = new FileReader();
+    reader.readAsText(fichero);
+    reader.onload = ()=>{
+      res = reader.result;
+      this.test = res;      
+    };    
+  }
 
   
 
+  
+  // leerArchivo(event) {    
+  //   this.aux = 'valor 2';
+  //   const file = event.target.files[0];    
+  //   const reader = new FileReader();
+  //   reader.readAsText(file);
 
-  ngOnInit(): void {
-    document
-      .getElementById('file-input')
-      .addEventListener('change', this.leerArchivo, false);
-  }
-
-  leerArchivo(event) {    
-    const file = event.target.files[0];    
-    const reader = new FileReader();
-    reader.readAsText(file);
-
-    reader.onload = (event) => {
-      const result = reader.result;      
-      const lineas = result.toString().split('\n')      
-      console.log(lineas);
-      document
-      .getElementById('contenido-archivo').innerHTML = lineas.toString();
-
-
-    };
-  }
+  //   reader.onload = (event) => {
+  //     const result = reader.result;            
+  //     this.texto = 'dsfd';
+  //   };
+  // }
   
 }
 

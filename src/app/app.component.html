@@ -294,7 +294,7 @@
   <div class="spacer"></div>
   <a class="boton-download">
     <div>
-      <input type="file" id="file-input" />
+      <input #inputFichero type="file" id="file-input" (change)="cargarArchivo($event)" />
     </div>
   </a>
 </div>
@@ -302,11 +302,7 @@
 <div class="content" role="main">
 
   <div class="body-test">
-
-
     <h3>Contenido del archivo:</h3>
-    <pre id="contenido-archivo"></pre>
-
-    
   </div>
+  
 </div>

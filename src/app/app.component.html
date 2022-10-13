@@ -301,8 +301,27 @@
 
 <div class="content" role="main">
 
-  <div class="body-test">
-    <h3>Contenido del archivo:</h3>
-  </div>
+  <div class="marco">    
+    <div class="body-test">
+     
+      <div *ngFor="let seccion of pregunta">
+
+        {{seccion | json}}
+        {{pregunta | json}}
+
+        <!-- <label for="{{p}}">
+          <input id="{{p}}" [value]='fruit' type="radio" name="fruits" [(ngModel)]="seleccionada">
+          {{p}}
+        </label> -->
+      </div>
   
+      <button *ngIf="hayPregunta()" (click)='comprobar'>Submit</button>
+  
+      
+  
+    </div>
+  </div>
+
+
+
 </div>

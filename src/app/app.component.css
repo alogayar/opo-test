@@ -6,9 +6,34 @@
 }
 .body-test{
   padding: 10px;
+  position: relative;
+  top: 0;
+}
+.body-test input {
+  display: inline;
+}
+span {
+  display: inline;
+  padding-left: 20px;
+}
+.fila{
+  display: flex;
+    gap: 3px;
+    margin: 10px 0;
+    justify-content: flex-start;
+    align-items: baseline;
 }
 
 .boton-download {
   color: white;
   margin-right: 20px;
+}
+.pregunta{
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.respuesta{
+  padding: 5px;
+  margin: 10px;
 }

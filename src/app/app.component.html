@@ -300,28 +300,59 @@
 </div>
 
 <div class="content" role="main">
-
-  <div class="marco">    
-    <div class="body-test">
-     
-      <div *ngFor="let seccion of pregunta">
-
-        {{seccion | json}}
-        {{pregunta | json}}
-
-        <!-- <label for="{{p}}">
-          <input id="{{p}}" [value]='fruit' type="radio" name="fruits" [(ngModel)]="seleccionada">
-          {{p}}
-        </label> -->
-      </div>
+  <div class="marco">
+    <div>
+      <h2 *ngIf="!test"> Cargar Fichero </h2>
+      <button #biniciar *ngIf="test" (click)="iniciar()">Iniciar</button>
+    </div>
+    <div *ngIf="!hayPregunta()" class="test-body">
+      <div #body class="body-test">
+        <p class="pregunta">{{pregunta.pregunta}}</p>
+        <label for="respuesta1">
+          <div class="fila fila1">
+            <input id="respuesta1" [value]='1' type="radio" name="respuestas" [(ngModel)]="seleccionada">
+            <span>
+              {{pregunta.respuesta1}}
   
-      <button *ngIf="hayPregunta()" (click)='comprobar'>Submit</button>
+            </span>
+
+          </div>
+        </label>
+        <label for="respuesta2">
+          <div class="fila fila2">
+            <input id="respuesta2" [value]='2' type="radio" name="respuestas" [(ngModel)]="seleccionada">
+            <span>
+              {{pregunta.respuesta2}}
   
+            </span>
+
+          </div>
+        </label>
+        <label for="respuesta3">
+          <div class="fila fila3 ">
+            <input id="respuesta3" [value]='3' type="radio" name="respuestas" [(ngModel)]="seleccionada">
+            <span>
+              {{pregunta.respuesta3}}
+  
+            </span>
+
+          </div>
+        </label>
+        <label for="respuesta4">
+          <div class="fila fila4">
+            <input id="respuesta4" [value]='4' type="radio" name="respuestas" [(ngModel)]="seleccionada">
+            <span>
+              {{pregunta.respuesta4}}
+  
+            </span>
+
+          </div>
+        </label>
       
-  
+          
+        
+      </div>    
+      <button class="respuesta" (click)='validar()'>Enviar</button>
     </div>
   </div>
-
-
-
 </div>

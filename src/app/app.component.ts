@@ -8,15 +8,15 @@ import { AfterViewChecked, Component, ElementRef, ViewChild } from '@angular/cor
 })
 export class AppComponent implements AfterViewChecked {
 
-  test: any;
+  test: any = null;
   pregunta: any = {};
   preguntas: any[] = [];
   preguntadas: number[] = [];
   seleccionada: string;
-  fruits: string[] = ["Banana", "Apple", "Guava", "Strawberry"];
-
-
+  
   @ViewChild('inputFichero') _input: ElementRef;
+  @ViewChild('biniciar') _iniciar: ElementRef;
+  @ViewChild('body') _body: ElementRef;
 
 
   constructor() {
@@ -30,14 +30,14 @@ export class AppComponent implements AfterViewChecked {
     if (this.test) {
       let pregunta = {};
       for (let i = 0, j = 0; i < this.test.length; i++, j++) {
-        if (j > 4) j = 0;
+        if (j > 5) j = 0;
         if (j == 0) pregunta['pregunta'] = this.test[i];
         if (j == 1) pregunta['respuesta1'] = this.test[i];
         if (j == 2) pregunta['respuesta2'] = this.test[i];
         if (j == 3) pregunta['respuesta3'] = this.test[i];
         if (j == 4) pregunta['respuesta4'] = this.test[i];
-        // if (j == 5) pregunta.correcta = this.test[i];
-        if (j == 4) {
+        if (j == 5) pregunta['correcta'] = this.test[i].replace('\r','');
+        if (j == 5) {
           this.preguntas.push(pregunta);
           pregunta = {};
         }
@@ -67,7 +67,21 @@ export class AppComponent implements AfterViewChecked {
   }
 
   iniciar(){
+    this._iniciar.nativeElement.hidden = true;
     this.pregunta = this.getPregunta();
+  }
+
+  validar(){
+    console.log(this.pregunta)
+    if (this.seleccionada.toString() === this.pregunta.correcta.toString()) {
+      console.log('CORRECTA')
+      this._body.nativeElement.style.backgroundColor = '#a8dd99';
+    }
+    else {
+      console.log('FALLADA');
+      this._body.nativeElement.style.backgroundColor = '#fca4b8';
+      
+    }
   }
 
 

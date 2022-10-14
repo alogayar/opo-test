@@ -1,6 +1,6 @@
 .marco {
   width: 100%;
-  height: 400px;
+  height: 100%;
   border: 1px solid black;
   border-radius: 4px;
 }
@@ -15,6 +15,7 @@
 span {
   display: inline;
   padding-left: 20px;
+  font-weight: bold;
 }
 .fila{
   display: flex;
@@ -29,11 +30,14 @@ span {
   margin-right: 20px;
 }
 .pregunta{
-  font-size: 1.1em;
-  font-weight: bold;
+  font-size: 1.2em;
+  font-weight: bolder;
   margin-bottom: 20px;
 }
 .respuesta{
   padding: 5px;
   margin: 10px;
+}
+.resultados{
+  border: 1px solid #bcbcbc;
 }

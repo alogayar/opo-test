@@ -86,16 +86,19 @@ export class AppComponent implements AfterViewChecked {
     this.pregunta = this.getPregunta();
   }
 
+  tam(){
+    return (this.cantidad < this.preguntas.length) ? this.cantidad : this.preguntas.length;
+  }
   // Crea un examen
   creaNumerodePreguntas() {
     this._iniciar.nativeElement.hidden = true;
     this.examen = [];
     this.preguntadas = [];
-    for (let i = 0; i < this.cantidad; i++) {
+    for (let i = 0; i < this.tam(); i++) {
       let buscar = true;
       let num = 0;
       while (buscar) {
-        num = this.getAleatorio(this.preguntas.length);
+        num = this.getAleatorio(this.tam());
         buscar = this.preguntadas.includes(num);
       }
       this.preguntadas.push(num);
@@ -108,17 +111,16 @@ export class AppComponent implements AfterViewChecked {
       this.creaNumerodePreguntas()
     }
     console.log(this.preguntas)
-    console.log(this.preguntadas)
+    console.log(this.seleccionada)
     this.pregunta = this.getPregunta();
   }
 
   validar() {
     console.log(this.pregunta);
-    console.log(this.contador);
-    console.log(this.cantidad);
+    console.log('seleccionada:', this.seleccionada);
     
     if (!this.seleccionada) return;
-    if (this.seleccionada.toString() === this.pregunta.correcta.toString()) {
+    if (this.seleccionada.toString().trim() === this.pregunta.correcta.toString().trim()) {
       console.log('CORRECTA')
       this._body.nativeElement.style.backgroundColor = '#39f798';
       this.respuestas[this.contador - 1] = 1;
@@ -131,7 +133,7 @@ export class AppComponent implements AfterViewChecked {
       this.falladas++;
     }
     this.disabled = false;
-    this.validarDisabled = true;
+    this.validarDisabled = false;
   }
   haySiguiente(){
     return (this.contador >= this.cantidad) ? false: true;

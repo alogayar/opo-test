@@ -8,9 +8,9 @@ import { AfterViewChecked, Component, ElementRef, ViewChild } from '@angular/cor
 })
 export class AppComponent implements AfterViewChecked {
 
+  cantidad: number = 50;  //numero de preguntas en examen
   test: any = null;
   pregunta: any = {};
-
   contador: number = 0;
   acertadas: number = 0;
   falladas: number = 0;
@@ -33,7 +33,7 @@ export class AppComponent implements AfterViewChecked {
     console.log('Iniciamos...');
   }
   hayPregunta() {
-    return Object.entries(this.pregunta).length === 0;
+    return Object.entries(this.pregunta??0).length === 0;
   }
   ngAfterViewChecked(): void {
 
@@ -72,15 +72,14 @@ export class AppComponent implements AfterViewChecked {
 
   getPregunta() {
     this.disabled = true;
-    this.validarDisabled = false;
-    if (this.contador < 40) {
-      const pregunta = this.preguntas[this.preguntadas[this.contador]];
-      this.contador++;
+    this.validarDisabled = false;    
+    if (this.contador < this.cantidad) {
+      const pregunta = this.preguntas[this.preguntadas[this.contador]];      
       return pregunta;
     }
   }
 
-  siguientePregunta() {
+  siguientePregunta() {    
     this.contador++;
     this.seleccionada = null;
     this._body.nativeElement.style.backgroundColor = '#fff';
@@ -92,7 +91,7 @@ export class AppComponent implements AfterViewChecked {
     this._iniciar.nativeElement.hidden = true;
     this.examen = [];
     this.preguntadas = [];
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < this.cantidad; i++) {
       let buscar = true;
       let num = 0;
       while (buscar) {
@@ -114,11 +113,14 @@ export class AppComponent implements AfterViewChecked {
   }
 
   validar() {
-    console.log(this.pregunta)
+    console.log(this.pregunta);
+    console.log(this.contador);
+    console.log(this.cantidad);
+    
     if (!this.seleccionada) return;
     if (this.seleccionada.toString() === this.pregunta.correcta.toString()) {
       console.log('CORRECTA')
-      this._body.nativeElement.style.backgroundColor = '#a8dd99';
+      this._body.nativeElement.style.backgroundColor = '#39f798';
       this.respuestas[this.contador - 1] = 1;
       this.acertadas++;
     }
@@ -128,16 +130,12 @@ export class AppComponent implements AfterViewChecked {
       this.respuestas[this.contador - 1] = 0;
       this.falladas++;
     }
-
     this.disabled = false;
     this.validarDisabled = true;
   }
-
-
-
-
-
-
+  haySiguiente(){
+    return (this.contador >= this.cantidad) ? false: true;
+  }
 
 }
 

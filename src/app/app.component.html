@@ -312,7 +312,7 @@
       <div #body class="body-test animate__animated animate__fadeIn marco">
         <p class="pregunta">{{pregunta.pregunta}}</p>
         <label for="respuesta1">
-          <div class="fila fila1">
+          <div id="fila1" class="fila">
             <input id="respuesta1" [value]='1' type="radio" name="respuestas" [(ngModel)]="seleccionada">
             <span>
               {{pregunta.respuesta1}}
@@ -322,7 +322,7 @@
           </div>
         </label>
         <label for="respuesta2">
-          <div class="fila fila2">
+          <div id="fila2" class="fila">
             <input id="respuesta2" [value]='2' type="radio" name="respuestas" [(ngModel)]="seleccionada">
             <span>
               {{pregunta.respuesta2}}
@@ -332,7 +332,7 @@
           </div>
         </label>
         <label for="respuesta3">
-          <div class="fila fila3 ">
+          <div id="fila3" class="fila">
             <input id="respuesta3" [value]='3' type="radio" name="respuestas" [(ngModel)]="seleccionada">
               <span>
               {{pregunta.respuesta3}}
@@ -342,7 +342,7 @@
           </div>
         </label>
         <label for="respuesta4">
-          <div class="fila fila4">
+          <div id="fila4" class="fila">
             <input id="respuesta4" [value]='4' type="radio" name="respuestas" [(ngModel)]="seleccionada">
             <span>
               {{pregunta.respuesta4}}
@@ -354,7 +354,7 @@
           
       </div>
       <button [disabled]=validarDisabled class="respuesta btn btn-secondary btn-sm" (click)='validar()'>Validar</button>
-      <button #siguiente [disabled]="disabled" class="respuesta btn btn-secondary btn-sm" (click)='siguientePregunta()'>Siguiente Pregunta..</button>
+      <button #siguiente *ngIf="haySiguiente()" [disabled]="disabled" class="respuesta btn btn-secondary btn-sm" (click)='siguientePregunta()'>Siguiente Pregunta..</button>
     </div>
   </div>
   <div class="resultados d-flex justify-content-between">

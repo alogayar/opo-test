@@ -302,6 +302,7 @@
 
 <div class="content" role="main">
   <div class="">
+    
     <div style="text-align: center; position: relative; top: 40%;">
       <h2 *ngIf="!test" class="animate__animated animate__backInDown display-5 text-center"> Debes seleccionar fichero
         de test </h2>
@@ -333,7 +334,7 @@
         <label for="respuesta3">
           <div class="fila fila3 ">
             <input id="respuesta3" [value]='3' type="radio" name="respuestas" [(ngModel)]="seleccionada">
-            <span>
+              <span>
               {{pregunta.respuesta3}}
 
             </span>
@@ -352,8 +353,13 @@
         </label>
           
       </div>
-      <button class="respuesta btn btn-secondary btn-sm" (click)='validar()'>Validar</button>
-      <button #siguiente [disabled]="disabled" class="respuesta btn btn-secondary btn-sm" (click)='siguientePregunta()'>Siguiente Pregunta..{{contador + 1}}</button>
+      <button [disabled]=validarDisabled class="respuesta btn btn-secondary btn-sm" (click)='validar()'>Validar</button>
+      <button #siguiente [disabled]="disabled" class="respuesta btn btn-secondary btn-sm" (click)='siguientePregunta()'>Siguiente Pregunta..</button>
     </div>
+  </div>
+  <div class="resultados d-flex justify-content-between">
+    <p>Presunta: <span>{{contador}}</span></p>
+    <p>Acertadas: <span>{{acertadas}}</span></p>
+    <p>Falladas: <span>{{falladas}}</span></p>
   </div>
 </div>

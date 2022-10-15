@@ -41,5 +41,14 @@ span {
   margin: 10px;
 }
 .resultados{
-  border: 1px solid #bcbcbc;
+  border: 1px solid #974cd9;
+  border-radius: 5px;
+  margin: 10px;
+}
+.resultados p {
+  margin: 0 10px;
+
+}
+.resultados p span {
+  font-weight: bold;
 }

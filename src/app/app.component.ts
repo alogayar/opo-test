@@ -12,7 +12,8 @@ export class AppComponent implements AfterViewChecked {
   pregunta: any = {};
 
   contador: number = 0;
-
+  acertadas: number = 0;
+  falladas: number = 0;
   preguntas: any[] = []; //array con todas las preguntas
   preguntadas: number[] = []; // array para guardar los numeros de las preguntas
   seleccionada: string = null; // opcion radiobuton
@@ -20,6 +21,7 @@ export class AppComponent implements AfterViewChecked {
   respuestas: number[] = []; // array
 
   private disabled = true;
+  private validarDisabled = false;
 
   @ViewChild('inputFichero') _input: ElementRef;
   @ViewChild('biniciar') _iniciar: ElementRef;
@@ -70,6 +72,7 @@ export class AppComponent implements AfterViewChecked {
 
   getPregunta() {
     this.disabled = true;
+    this.validarDisabled = false;
     if (this.contador < 40) {
       const pregunta = this.preguntas[this.preguntadas[this.contador]];
       this.contador++;
@@ -117,15 +120,19 @@ export class AppComponent implements AfterViewChecked {
       console.log('CORRECTA')
       this._body.nativeElement.style.backgroundColor = '#a8dd99';
       this.respuestas[this.contador - 1] = 1;
+      this.acertadas++;
     }
     else {
       console.log('FALLADA');
       this._body.nativeElement.style.backgroundColor = '#fca4b8';
       this.respuestas[this.contador - 1] = 0;
+      this.falladas++;
     }
- 
+
     this.disabled = false;
+    this.validarDisabled = true;
   }
+
 
 
 

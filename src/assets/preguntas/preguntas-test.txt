@@ -2929,7 +2929,6 @@ d) Siempre, todos los actos iniciados a solicitud de interesado.
 27. Conforme al art. 109 de la LPAC, las Administraciones Públicas podrán, rectificar… 
 a) Mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables. 
 b) En cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho, o aritméticos existentes en sus actos. 
-c) En cualquier momento, de oficio, los errores materiales, de hecho, o aritméticos existentes en sus actos. 
 c) Tras haber transcurrido el plazo de prescripción, sus actos de gravamen o favorables. 
 d) Ninguna es correcta. 
 2
@@ -2951,7 +2950,6 @@ b) El Consejo de Ministros.
 c) El Presidente del Gobierno. 
 d) Ninguna es correcta.
 2
-
 1. ¿Cómo podemos definir al acto que no decide la cuestión de fondo del procedimiento, sino que se dicta para preparar el acto que contendrá la resolución definitiva del mismo? 
 a) Acto no definitorio. 
 b) Acto de tramitación. 

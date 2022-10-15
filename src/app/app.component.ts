@@ -98,7 +98,7 @@ export class AppComponent implements AfterViewChecked {
       let buscar = true;
       let num = 0;
       while (buscar) {
-        num = this.getAleatorio(this.tam());
+        num = this.getAleatorio(this.preguntas.length);
         buscar = this.preguntadas.includes(num);
       }
       this.preguntadas.push(num);
@@ -111,6 +111,8 @@ export class AppComponent implements AfterViewChecked {
       this.creaNumerodePreguntas()
     }
     console.log(this.preguntas)
+    console.log(this.preguntadas);
+    
     console.log(this.seleccionada)
     this.pregunta = this.getPregunta();
   }

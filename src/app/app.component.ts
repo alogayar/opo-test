@@ -71,7 +71,7 @@ export class AppComponent implements AfterViewChecked {
   getPregunta() {
     this.disabled = true;
     if (this.contador < 40) {
-      const pregunta = this.preguntas[this.contador];
+      const pregunta = this.preguntas[this.preguntadas[this.contador]];
       this.contador++;
       return pregunta;
     }
@@ -105,6 +105,8 @@ export class AppComponent implements AfterViewChecked {
     if (!this.preguntadas.length) {
       this.creaNumerodePreguntas()
     }
+    console.log(this.preguntas)
+    console.log(this.preguntadas)
     this.pregunta = this.getPregunta();
   }
 

@@ -1,4 +1,4 @@
-import { AfterViewChecked, Component, ElementRef, ViewChild } from '@angular/core';
+import { Component, ElementRef, ViewChild } from '@angular/core';
 
 
 @Component({
@@ -6,7 +6,7 @@ import { AfterViewChecked, Component, ElementRef, ViewChild } from '@angular/cor
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
-export class AppComponent implements AfterViewChecked {
+export class AppComponent {
 
   cantidad: number = 50;  //numero de preguntas en examen
   test: any = null;
@@ -17,7 +17,6 @@ export class AppComponent implements AfterViewChecked {
   preguntas: any[] = []; //array con todas las preguntas
   preguntadas: number[] = []; // array para guardar los numeros de las preguntas
   seleccionada: string = null; // opcion radiobuton
-  examen: any[] = []; // array con 40 preguntas;
   respuestas: number[] = []; // array
 
   private disabled = true;
@@ -31,12 +30,11 @@ export class AppComponent implements AfterViewChecked {
 
   constructor() {
     console.log('Iniciamos...');
-  }
+  }  
   hayPregunta() {
     return Object.entries(this.pregunta??0).length === 0;
   }
-  ngAfterViewChecked(): void {
-
+  rellenaExamen(): void {
     if (this.test) {
       let pregunta = {};
       for (let i = 0, j = 0; i < this.test.length; i++, j++) {
@@ -53,6 +51,7 @@ export class AppComponent implements AfterViewChecked {
         }
       }
     }
+    
   }
 
   getAleatorio(max) {
@@ -92,7 +91,6 @@ export class AppComponent implements AfterViewChecked {
   // Crea un examen
   creaNumerodePreguntas() {
     this._iniciar.nativeElement.hidden = true;
-    this.examen = [];
     this.preguntadas = [];
     for (let i = 0; i < this.tam(); i++) {
       let buscar = true;
@@ -107,14 +105,17 @@ export class AppComponent implements AfterViewChecked {
 
   creaExamen() {
     this.contador = 0;
-    if (!this.preguntadas.length) {
-      this.creaNumerodePreguntas()
-    }
+    this.rellenaExamen();
+    this.creaNumerodePreguntas()
+    
+    
+    console.log(this.test)
     console.log(this.preguntas)
     console.log(this.preguntadas);
     
     console.log(this.seleccionada)
     this.pregunta = this.getPregunta();
+    console.log(this.preguntas)
   }
 
   validar() {

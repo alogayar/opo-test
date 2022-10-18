@@ -9574,3 +9574,916 @@ b) 3.
 c) 4.
 d) 5.
 2
+1. Según el art. 190 de la LCSP, dentro de los límites y con sujeción a los requisitos y efectos señalados en la LCSP, el órgano de contratación no ostenta la prerrogativa de…
+a) Interpretar los contratos administrativos.
+b) Resolver las dudas que ofrezca su cumplimiento.
+c) Modificarlos por razones de interés privado. 
+d) Declarar la responsabilidad.
+3
+2. Según el art. 191 de la LCSP, será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva en los casos de…
+a) La interpretación, nulidad y resolución de los contratos, cuando se formule oposición por parte del contratista.
+b) Las modificaciones de los contratos cuando no estuvieran previstas en el pliego de cláusulas administrativas particulares
+c) Las reclamaciones dirigidas a la Administración con fundamento en la responsabilidad contractual en que esta pudiera haber incurrido.
+d) Todas las respuestas anteriores son correctas. 
+4
+3. Conforme al art. 191 de la LCSP, será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva en el caso de las modificaciones de los contratos cuando no estuvieran previstas en el pliego de cláusulas administrativas particulares y su cuantía, aislada o conjuntamente, sea…
+a) Superior a un 20 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 6.000.000 de euros. 
+b) Inferior a un 20 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 6.000.000 de euros.
+c) Superior a un 20 por ciento del precio inicial del contrato, IVA excluido, y su precio sea igual o superior a 600.000 euros.
+d) Superior a un 20 por ciento del precio inicial del contrato, IVA incluido, y su precio sea igual o superior a 6.000.000 de euros.
+1
+4. Conforme al art. 191 de la LCSP, será preceptivo el dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva en el caso de las reclamaciones dirigidas a la Administración con fundamento en la responsabilidad contractual en que esta pudiera haber incurrido, en los casos en que las indemnizaciones reclamadas sean de cuantía…
+a) Igual o inferior a 50.000 euros. Esta cuantía se podrá rebajar por la normativa de la correspondiente Comunidad Autónoma.
+b) Igual o superior a 50.000 euros. Esta cuantía se podrá rebajar por la normativa de la correspondiente Comunidad Autónoma. 
+c) Igual o superior a 500.000 euros. Esta cuantía se podrá rebajar por la normativa de la correspondiente Comunidad Autónoma.
+d) Todas son incorrectas.
+2
+5. Conforme a lo previsto en el art. 192 de la LCSP, los pliegos podrán prever penalidades para…
+a) El caso de cumplimiento defectuoso de la prestación objeto mismo.
+b) El supuesto de incumplimiento de los compromisos o de las condiciones especiales de ejecución del contrato que se hubiesen establecido.
+c) El caso de demora en la realización de los pagos.
+d) A y b son correctas. 
+4
+6. Conforme a lo previsto en el art. 192 de la LCSP, los pliegos podrán prever penalidades que deberán ser proporcionales a la gravedad del incumplimiento y las cuantías de cada una de ellas…
+a) Podrán ser superiores al 10% del precio del contrato, IVA excluido, ni el total de las mismas superar el 50% del precio del contrato.
+b) Podrán ser superiores al 10% del precio del contrato, IVA incluido, ni el total de las mismas superar el 50% del precio del contrato.
+c) No podrán ser superiores al 10% del precio del contrato, IVA excluido, ni el total de las mismas superar el 50% del precio del contrato. 
+d) No podrán ser inferiores al 50% del precio del contrato, IVA excluido, ni el total de las mismas superar el 10% del precio del contrato.
+3
+7. Según el art. 192 de la LCSP, cuando el contratista, por causas imputables al mismo, hubiere incumplido parcialmente en la ejecución de las prestaciones definidas en el contrato, la Administración podrá optar por…
+a) Su anulación.
+b) Su resolución.
+c) Imposición de las penalidades que se determinen en el pliego de cláusulas administrativas particulares.
+d) B y c son correctas. 
+4
+8. Según el art. 193 de la LCSP, la constitución en mora del contratista no precisará…
+a) Intimación previa por parte de la Administración. 
+b) Intimación posterior por parte de la Administración.
+c) Mandato previo por parte de la Administración.
+d) Mandato posterior por parte de la Administración.
+1
+9. Según el art. 193 de la LCSP, cuando el contratista, por causas imputables al mismo, hubiere incurrido en demora respecto al cumplimiento del plazo total, la Administración podrá optar indistintamente por…
+a) La resolución del contrato.
+b) La imposición de las penalidades diarias en la proporción de 0,60 euros por cada 1.000 euros del precio del contrato, IVA excluido.
+c) La imposición de las penalidades diarias en la proporción de 6,00 euros por cada 10.000 euros del precio del contrato, IVA incluido.
+d) A y b son correctas. 
+4
+10. Según el art. 193 de la LCSP, el órgano de contratación, ¿cuándo estará facultado para proceder a la resolución del mismo o acordar la continuidad de su ejecución con imposición de nuevas penalidades?
+a) Cada vez que las penalidades por demora alcancen un múltiplo del 10 por 100 del precio del contrato, IVA excluido.
+b) Cada vez que las penalidades por demora alcancen un múltiplo del 5 por 100 del precio del contrato, IVA excluido. 
+c) Cada vez que las penalidades por demora alcancen un múltiplo del 20 por 100 del precio del contrato, IVA incluido.
+d) Cada vez que las penalidades por demora alcancen un múltiplo del 15 por 100 del precio del contrato, IVA incluido.
+2
+11. En virtud del art. 194 de la LCSP, en los supuestos de incumplimiento parcial o defectuoso o de demora en la ejecución en que no estuviera prevista penalidad o que estándolo no cubriera los daños causados a la Administración, esta exigirá al contratista…
+a) La resolución del contrato.
+b) Las penalidades a las que hace referencia el art. 193 de la LCSP, en todo caso.
+c) La indemnización por daños y perjuicios. 
+d) Todas son correctas.
+3
+12. De acuerdo con lo dispuesto en el art. 195 de la LCSP, si la Administración optase por la resolución, ésta deberá acordarse por el órgano de contratación o por aquel que tenga atribuida esta competencia en las Comunidades Autónomas, sin otro trámite preceptivo que la audiencia del contratista y, cuando se formule oposición por parte de éste, el dictamen de…
+a) El Consejo de Estado. 
+b) El órgano consultivo equivalente de la Entidad Local.
+c) El Consejo de Gobierno de la Comunidad Autónoma.
+d) A y b son correctas.
+1
+13. Según el art. 195 de la LCSP, si el retraso fuese producido por motivos no imputables al contratista y éste ofreciera cumplir sus compromisos si se le amplía el plazo inicial de ejecución, el órgano de contratación se lo concederá dándosele un plazo que será…
+a) No inferior a 3 meses, en el caso de contratos de obras.
+b) Por lo menos, igual al tiempo perdido, a no ser que el contratista pidiese otro menor. 
+c) En todo caso, de 3 meses.
+d) No inferior a 6 meses a contar desde el momento en que se haya producido la paralización.
+2
+14. Según el art. 198 de la LCSP, ¿cómo podrá realizarse el pago del precio?
+a) Podrá hacerse de manera total o parcial.
+b) Podrá hacerse mediante abonos a cuenta.
+c) En el caso de contratos de tracto sucesivo, podrá hacerse mediante pago en cada uno de los vencimientos que se hubiesen estipulado.
+d) Todas son correctas. 
+4
+15. Según el art. 198 de la LCSP, la Administración tendrá la obligación de abonar el precio dentro de…
+a) Los 30 días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el contrato de los bienes entregados o servicios prestados. 
+b) Los 25 días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el contrato de los bienes entregados o servicios prestados.
+c) Los 20 días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el contrato de los bienes entregados o servicios prestados.
+d) Los 15 días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con lo dispuesto en el contrato de los bienes entregados o servicios prestados.
+1
+16. Según el art. 198 de la LCSP, el contratista deberá de haber cumplido la obligación de presentar la factura ante el registro administrativo correspondiente en tiempo y forma, en el plazo de…
+a) 10 días desde la fecha de entrega efectiva de las mercancías o la prestación del servicio.
+b) 20 días desde la fecha de entrega efectiva de las mercancías o la prestación del servicio.
+c) 30 días desde la fecha de entrega efectiva de las mercancías o la prestación del servicio. 
+d) 40 días desde la fecha de entrega efectiva de las mercancías o la prestación del servicio.
+3
+17. Según el art. 198 de la LCSP, la Administración deberá aprobar las certificaciones de obra o los documentos que acrediten la conformidad con lo dispuesto en el contrato de los bienes entregados o servicios prestados…
+a) Dentro de los 20 días siguientes a la recogida efectiva de los bienes o prestación del servicio.
+b) Dentro de los 30 días siguientes a la entrega efectiva de los bienes o prestación del servicio. 
+c) Pasados 20 días desde la entrega efectiva de los bienes o prestación del servicio.
+d) Pasados 15 días desde la recogida efectiva de los bienes o prestación del servicio.
+2
+18. Según el art. 198 de la LCSP, si el contratista incumpliera el plazo para presentar la factura ante el registro administrativo correspondiente, el devengo de intereses no se iniciará hasta transcurridos…
+a) 20 días desde la fecha de la correcta presentación de la factura, sin que la Administración haya aprobado la conformidad, si procede, y efectuado el correspondiente abono.
+b) 25 días desde la fecha de la correcta presentación de la factura, sin que la Administración haya aprobado la conformidad, si procede, y efectuado el correspondiente abono.
+c) 30 días desde la fecha de la correcta presentación de la factura, sin que la Administración haya aprobado la conformidad, si procede, y efectuado el correspondiente abono. 
+d) 35 días desde la fecha de la correcta presentación de la factura, sin que la Administración haya aprobado la conformidad, si procede, y efectuado el correspondiente abono.
+3
+19. Según el art. 198 de la LCSP, si la demora en el pago fuese superior a 4 meses, el contratista podrá proceder, en su caso, a la suspensión del cumplimiento del contrato, debiendo comunicar tal circunstancia a la Administración, con…
+a) 30 días de antelación.
+b) 1 mes de antelación. 
+c) 20 días de antelación.
+d) 2 meses de antelación.
+2
+20. Según el art. 198 de la LCSP, el contratista tendrá derecho a resolver el contrato y al resarcimiento de los perjuicios, si la demora de la Administración fuese…
+a) Superior a 6 meses. 
+b) Inferior a 6 meses.
+c) Superior a 4 meses.
+d) Inferior a 3 meses.
+1
+21. Por otra parte, el art. 198 de la LCSP establece que, los abonos a cuenta que procedan por la ejecución del contrato, sólo podrán ser embargados…
+a) Para el pago de los salarios devengados por el personal del contratista en la ejecución del contrato y de las cuotas sociales derivadas de los mismos.
+b) Para el pago de las obligaciones contraídas por el contratista con los subcontratistas y suministradores referidas a la ejecución del contrato.
+c) A y b son incorrectas.
+d) A y b son correctas. 
+4
+22. El art. 204 de la LCSP establece que los contratos de las Administraciones Públicas podrán modificarse durante su vigencia hasta…
+a) Un mínimo del 10% del precio final.
+b) Un máximo del 20% del precio inicial. 
+c) Un máximo del 25% del precio inicial.
+d) Un mínimo del 30% del precio final.
+2
+23. En virtud del art. 205 de la LCSP, ¿cuáles son los supuestos que eventualmente podrían justificar una modificación no prevista, siempre y cuando ésta cumpla todos los requisitos establecidos?
+a) Cuando deviniera necesario añadir obras, suministros o servicios adicionales a los inicialmente contratados.
+b) Cuando la necesidad de modificar se derive de circunstancias sobrevenidas y que fueran imprevisibles en el momento en que tuvo lugar la licitación del contrato.
+c) Cuando las modificaciones no sean sustanciales.
+d) Todas son correctas. 
+4
+24. En virtud del art. 205 de la LCSP, cuando la necesidad de modificar un contrato vigente se derive de circunstancias sobrevenidas para que pueda modificarse el contrato será necesario…
+a) Que la modificación del contrato implique una alteración en su cuantía que no exceda, aislada o conjuntamente con otras modificaciones acordadas conforme a este artículo, del 20 por ciento de su precio inicial, IVA incluido.
+b) Que la modificación del contrato implique una alteración en su cuantía que no exceda, aislada o conjuntamente con otras modificaciones acordadas conforme a este artículo, del 30 por ciento de su precio inicial, IVA incluido.
+c) Que la modificación del contrato implique una alteración en su cuantía que no exceda, aislada o conjuntamente con otras modificaciones acordadas conforme a este artículo, del 50 por ciento de su precio inicial, IVA incluido. 
+d) Que la modificación del contrato implique una alteración en su cuantía que no exceda, aislada o conjuntamente con otras modificaciones acordadas conforme a este artículo, del 50 por ciento de su precio inicial, IVA excluido.
+3
+25. Según el art. 205 de la LCSP, una modificación se considerará sustancial cuando se cumpla la condición…
+a) Que la modificación introduzca condiciones que, de haber figurado en el procedimiento de contratación inicial, habrían permitido la selección de candidatos distintos de los seleccionados inicialmente o la aceptación de una oferta distinta a la aceptada inicialmente o habrían atraído a más participantes en el procedimiento de contratación.
+b) Que la modificación altere el equilibrio económico del contrato en beneficio del contratista de una manera que no estaba prevista en el contrato inicial.
+c) Que la modificación amplíe de forma importante el ámbito del contrato.
+d) Todas son correctas. 
+4
+26. Según el art. 206 de la LCSP, en los supuestos de modificación del contrato recogidas en el art. 205, serán acordadas por el órgano de contratación y serán obligatorias para los contratistas, cuando impliquen, aislada o conjuntamente, una alteración en su cuantía que…
+a) No exceda del 20% del precio inicial del contrato, IVA excluido. 
+b) Exceda del 20% del precio inicial del contrato, IVA incluido.
+c) No exceda del 30% del precio inicial del contrato, IVA excluido.
+b) Exceda del 30% del precio inicial del contrato, IVA incluido.
+1
+27. Con carácter general, el art. 209 de la LCSP señala que los contratos se extinguirán por…
+a) Penalización impuesta en vía judicial.
+b) Sanción administrativa impuesta en proceso especial.
+c) Resolución. 
+d) B y c son correctas.
+3
+28. Según el art. 210 de la LCSP, la constatación del cumplimiento del contrato, ¿cuándo exigirá por parte de la Administración un acto formal y positivo de recepción o conformidad?
+a) Dentro del mes siguiente a la entrega o realización del objeto del contrato.
+b) En el plazo que se determine en el pliego de cláusulas administrativas particulares por razón de sus características.
+c) Pasado el mes siguiente a la entrega o realización del objeto del contrato.
+d) A y b son correctas. 
+4
+29. Según el art. 211 de la LCSP, de las siguientes, ¿cuál no es una causa de resolución del contrato?
+a) La declaración de concurso o la declaración de insolvencia en cualquier otro procedimiento.
+b) El mutuo acuerdo entre la Administración y el contratista.
+c) La suspensión de la ejecución del contrato por plazo superior a 3 meses. 
+d) La demora en el cumplimiento de los plazos por parte del contratista.
+3
+30. Según el art. 211 de la LCSP, es una causa de resolución de los contratos la demora en el cumplimiento de los plazos por parte del contratista. En todo caso lo será, el retraso injustificado sobre el plan de trabajados establecido en el pliego o en el contrato, en cualquier actividad, por un plazo…
+a) Superior a un tercio del plazo de duración inicial del contrato, incluidas las posibles prórrogas. 
+b) Inferior a un tercio del plazo de duración inicial del contrato, incluidas las posibles prórrogas.
+c) Superior a un tercio del plazo de duración inicial del contrato, excluidas las posibles prórrogas.
+d) Todas son incorrectas.
+1
+31. Según el art. 211 de la LCSP, es una causa de resolución de los contratos el incumplimiento de las restantes obligaciones contractuales esenciales, calificadas como tales en los pliegos cuando concurra la siguiente circunstancia…
+a) Que las mismas respeten los límites que el artículo 34.1 referente a la libertad de pactos.
+b) Que figuren enumeradas de manera precisa, clara e inequívoca en los pliegos o en el documento descriptivo, no siendo admisibles cláusulas de tipo general.
+c) A y b son correctas. 
+d) A y b son incorrectas.
+3
+32. Según el art. 122 de la LCSP, en aquellos contratos cuya ejecución requiera el tratamiento por el contratista de datos personales por cuenta del responsable del tratamiento, ¿qué se hará constar adicionalmente en el pliego?
+a) La finalidad para la cual se cederán dichos datos.
+b) La obligación del futuro contratista de someterse en todo caso a la normativa nacional y de la Unión Europea en materia de protección de datos.
+c) La obligación de la empresa adjudicataria de presentar antes de la formalización del contrato una declaración en la que ponga de manifiesto dónde van a estar ubicados los servidores y desde dónde se van a prestar los servicios asociados a los mismos.
+d) Todas son correctas. 
+4
+33. Según el art. 213 de la LCSP, cuando la resolución se acuerde por las causas recogidas en la letra g) del artículo 211 (imposibilidad de ejecutar la prestación en los términos inicialmente pactados, cuando no sea posible modificar el contrato), el contratista tendrá derecho a una indemnización del…
+a) 3% del importe de la prestación dejada de realizar. 
+b) 5% del importe de la prestación dejada de realizar.
+c) 7% del importe de la prestación dejada de realizar.
+d) 10% del importe de la prestación dejada de realizar.
+1
+34. Según el art. 214 de la LCSP, los pliegos establecerán que los derechos y obligaciones dimanantes del contrato podrán ser cedidos por el contratista a un tercero siempre que…
+a) Las cualidades técnicas o personales del cedente hayan sido razón determinante de la adjudicación del contrato.
+b) De la cesión no resulte una restricción efectiva de la competencia en el mercado. 
+c) A y b son correctas.
+d) El importe del contrato no supere la cuantía de seis millones de euros.
+2
+35. Según el art. 214 de la LCSP, para que los contratistas puedan ceder sus derechos y obligaciones a terceros, ¿qué requisito no se deberá cumplir?
+a) Que el órgano de contratación autorice, de forma previa y expresa, la cesión.
+b) Que el cedente tenga ejecutado al menos un 20% del importe del contrato o, cuando se trate de un contrato de concesión de obras o concesión de servicios, que haya efectuado su explotación durante al menos una quinta parte del plazo de duración del contrato.
+c) Que el cesionario tenga capacidad para contratar con la Administración y la solvencia que resulte exigible, en función de la fase de ejecución del contrato, debiendo estar debidamente clasificado si tal requisito ha sido exigido al cedente, y no estar incurso en una causa de prohibición de contratar.
+d) Que la cesión se formalice, entre el adjudicatario y el cesionario, en contrato privado. 
+4
+36. Según el art. 214 de la LCSP, para que los contratistas puedan ceder sus derechos y obligaciones a terceros, los pliegos deberán contemplar que el órgano de contratación autorice, de forma previa y expresa, la cesión, El plazo para la notificación de la resolución sobre la solicitud de autorización será de…
+a) 30 días, el cual deberá entenderse otorgada por silencio administrativo.
+b) 1 mes, el cual deberá entenderse otorgada por silencio administrativo.
+c) 2 meses, el cual deberá entenderse otorgada por silencio administrativo. 
+d) 3 meses, el cual deberá entenderse otorgada por silencio administrativo.
+3
+37. Según el art. 215 de la LCSP, el contratista podrá concertar con terceros la realización parcial de la prestación con sujeción a lo que dispongan los pliegos…
+a) Siempre que el valor estimado del contrato sea inferior a 140.000 euros, Iva excluido.
+b) Salvo que, la prestación o parte de la misma haya de ser ejecutada directamente por el contratista. 
+c) A y b son correctas.
+d) Que el cedente tenga ejecutado al menos un 20 por 100 del importe del contrato.
+2
+38. Según el art. 215 de la LCSP, la celebración de los subcontratos estará sometida al cumplimiento del siguiente requisito…
+a) Si así se prevé en los pliegos, los licitadores deberán indicar en la oferta la parte del contrato que tengan previsto subcontratar.
+b) En todo caso, el adjudicatario deberá comunicar por escrito, tras la adjudicación del contrato y, a más tardar, cuando inicie la ejecución de éste, al órgano de contratación la intención de celebrar los subcontratos.
+c) En los contratos de carácter secreto o reservado, la subcontratación requerirá siempre autorización expresa del órgano de contratación.
+d) Todas son correctas. 
+4
+39. Según el art. 215 de la LCSP, en todo caso, el adjudicatario deberá comunicar por escrito, tras la adjudicación del contrato y, a más tardar, cuando inicie la ejecución de éste, al órgano de contratación la intención de celebrar los subcontratos…
+a) Señalando la parte de la prestación que se pretende subcontratar y la identidad del subcontratista.
+b) Acreditando que no se encuentra incurso en prohibición de contratar.
+c) Justificando suficientemente la aptitud de éste para ejecutarla por referencia a los elementos técnicos y humanos de que dispone y a su experiencia.
+d) Todas son correctas. 
+4
+40. Según el art. 215 de la LCSP, la subcontratación requerirá siempre autorización expresa del órgano de contratación…
+a) En los contratos de carácter secreto o reservado.
+b) En aquellos cuya ejecución deba ir acompañada de medidas de seguridad especiales de acuerdo con disposiciones legales o reglamentarias.
+c) Cuando lo exija la protección de los intereses esenciales de la seguridad del Estado.
+d) Todas son correctas. 
+4
+41. En virtud del art. 239 de la LCSP, no tendrán la consideración de casos de fuerza mayor…
+a) Los incendios causados por la electricidad atmosférica.
+b) Los fenómenos naturales de efectos catastróficos, como maremotos, terremotos, erupciones volcánicas, movimientos del terreno, temporales marítimos, inundaciones u otros semejantes.
+c) Los acontecimientos que devienen como consecuencia del pago de una deuda anterior no prevista, que impide el cumplimiento de pago del precio del contrato. 
+d) Los destrozos ocasionados violentamente en tiempo de guerra, robos tumultuosos o alteraciones graves del orden público.
+3
+42. En virtud del art. 254 de la LCSP, si la concurrencia de fuerza mayor implicase mayores costes para el concesionario se procederá a ajustar…
+a) El plan económico-financiero. 
+b) El plan económico-contractual.
+c) El plan económico-fiscal.
+d) El plan económico.
+1
+1. Según la disposición adicional segunda de la LCSP, corresponden a los Alcaldes y a los Presidentes de las Entidades Locales las competencias como órgano de contratación respecto de los contratos de obras, cuando su valor estimado…
+a) No supere el 10 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, la cuantía de seis millones de euros. 
+b) Supere el 10 por ciento de los recursos ordinarios del presupuesto y, en ningún caso, la cuantía de cinco millones de euros.
+c) No supere el 6 por ciento de los recursos ordinarios del presupuesto ni, en cualquier caso, la cuantía de diez millones de euros.
+d) Supere el 6 por ciento de los recursos ordinarios del presupuesto y, en cualquier caso, la cuantía de diez millones de euros.
+1
+2. Según la disposición adicional segunda de la LCSP, corresponden a los Alcaldes y a los Presidentes de las Entidades Locales las competencias como órgano de contratación respecto de los contratos de obras plurianuales, cuando su duración…
+a) No sea superior a 4 años, eventuales prórrogas excluidas.
+b) No sea superior a 4 años, eventuales prórrogas incluidas. 
+c) Sea superior a 4 años, eventuales prórrogas excluidas.
+d) Sea superior a 4 años, eventuales prórrogas incluidas.
+2
+3. Según la disposición adicional segunda de la LCSP, en un municipio de régimen común, ¿qué órgano de contratación es competente respecto de los contratos de obras, cuando por su valor o duración no correspondan al Alcalde o Presidente de la Entidad Local?
+a) La Junta de Gobierno Local.
+b) Los Tenientes de Alcalde.
+c) El Pleno. 
+d) A ninguno de los anteriores.
+3
+4. Según la disposición adicional segunda de la LCSP, corresponde a los Alcaldes y a los Presidentes de las Entidades Locales la competencia para la celebración de los contratos privados, cuando el presupuesto base de licitación…
+a) Supere el 10 por ciento de los recursos ordinarios del presupuesto y el importe de tres mil euros.
+b) No supere el 30 por ciento de los recursos ordinarios del presupuesto ni el importe de un millón de euros.
+c) Supere el 20 por ciento de los recursos ordinarios del presupuesto y el importe de tres millones de euros.
+d) No supere el 10 por ciento de los recursos ordinarios del presupuesto ni el importe de tres millones de euros. 
+4
+5. Según la disposición adicional segunda de la LCSP, corresponde al Pleno la competencia para…
+a) La adjudicación de cualquier tipo de concesiones sobre los bienes de la Corporación.
+b) La enajenación de los bienes declarados de valor histórico o artístico cualquiera que sea su valor. 
+c) La adquisición de cualesquiera bienes inmuebles y derechos sujetos a la legislación patrimonial
+d) Todas son correctas.
+2
+6. Según la disposición adicional segunda de la LCSP, es competencia del Pleno autorizar la redacción y licitación de proyectos independientes relativos a cada una de las partes de una obra cuyo periodo de ejecución exceda al de un presupuesto anual, en los municipios de población…
+a) Superior a 5.000 habitantes.
+b) Inferior a 5.000 habitantes. 
+c) Inferior a 50.000 habitantes.
+d) Superior a 500 habitantes.
+2
+7. Según la disposición adicional segunda de la LCSP, será potestativa la constitución de las Juntas de contratación que actuarán como órganos de contratación en los contratos de obras que tengan por objeto (señale la incorrecta) …
+a) Trabajos de reparación simple.
+b) Trabajos de conservación.
+c) Trabajos de selección del personal para la realización de las obras. 
+d) Trabajos de mantenimiento.
+3
+8. Según la disposición adicional segunda de la LCSP, será potestativa la constitución de las Juntas de contratación que actuarán como órganos de contratación en los contratos de servicios cuando su valor estimado…
+a) No supere el 10% de los recursos ordinarios de la Entidad. 
+b) Supere el 10% de los recursos ordinarios de la Entidad.
+c) No supere el 15% de los recursos ordinarios de la Entidad.
+d) Supere el 15% de los recursos ordinarios de la Entidad.
+1
+9. Según la disposición adicional segunda de la LCSP, ¿a qué órgano le corresponde acordar la constitución de las Juntas de Contratación?
+a) A la Junta de Gobierno Local.
+b) Al Alcalde.
+c) Al Pleno. 
+d) Todas son correctas.
+3
+10. Según la disposición adicional segunda de la LCSP, ¿qué órganos deben formar parte de las Juntas de Contratación?
+a) El Secretario o el titular del órgano que tenga atribuida la función de asesoramiento jurídico de la Corporación.
+b) El Interventor de la Corporación.
+c) El titular de la asesoría jurídica.
+d) A y b son correctas. 
+4
+11. Según la disposición adicional segunda de la LCSP, las competencias en materia de contratación podrán ser ejercidas por los órganos que, con carácter de centrales de contratación, se constituyan en la forma prevista en el art. 228 de la presente Ley, mediante acuerdos al efecto, en los municipios de población…
+a) Superior a 5.000 habitantes.
+b) Inferior a 5.000 habitantes. 
+c) Inferior a 50.000 habitantes.
+d) Superior a 500 habitantes.
+2
+12. Según la disposición adicional segunda de la LCSP, respecto a las centrales de contratación, podrán concertarse convenios en virtud de los cuales se encomiende la gestión del procedimiento de contratación a…
+a) Los Ayuntamientos de cada municipio.
+b) Las Diputaciones provinciales.
+c) Las Comunidades Autónomas de carácter uniprovincial.
+d) B y c son correctas. 
+4
+13. Según la disposición adicional segunda de la LCSP, de la mesa de contratación formarán parte como vocales…
+a) El Secretario o, en su caso, el titular del órgano que tenga atribuida la función de asesoramiento jurídico.
+b) El Interventor, o, en su caso, el titular del órgano que tenga atribuidas la función de control económico-presupuestario.
+c) Aquellos otros que se designen por el órgano de contratación entre el personal funcionario de carrera o personal laboral al servicio de la Corporación.
+d) Todas son correctas. 
+4
+14. Según la disposición adicional segunda de la LCSP, en las Entidades locales municipales, mancomunidades y consorcios locales, podrán integrarse en la Mesa personal al servicio de…
+a) Las correspondientes Diputaciones Provinciales.
+b) Las correspondientes Comunidades Autónomas uniprovinciales.
+c) La Administración del Estado y sus entes instrumentales dependientes.
+d) A y b son correctas. 
+4
+15. Según la disposición adicional segunda de la LCSP, el comité de expertos podrá estar integrado en las Entidades locales por…
+a) Personal funcionario de carrera.
+b) Personal laboral fijo con cualificación apropiada.
+c) Un técnico jurista especializado en contratación pública.
+d) Todas son correctas. 
+4
+16. Según la disposición adicional tercera de la LCSP, se podrán tramitar anticipadamente los contratos cuya ejecución material haya de comenzar en el ejercicio siguiente o aquellos cuya financiación dependa de…
+a) Un préstamo.
+b) Un crédito.
+c) Una subvención solicitada a otra entidad pública o privada.
+d) Todas las anteriores. 
+4
+17. Según la disposición adicional tercera de la LCSP, los actos de fiscalización se ejercen por…
+a) El Secretario del Ayuntamiento.
+b) El Alcalde.
+c) El Interventor de la Entidad local. 
+d) Aquellos otros que se designen por el órgano de contratación entre el personal funcionario de carrera o personal laboral al servicio de la Corporación.
+3
+18. Según la disposición adicional tercera de la LCSP, el órgano interventor asistirá a la recepción material de todos los contratos, excepto…
+a) Los contratos menores, en ejercicio de la función de fiscalización material de las inversiones. 
+b) Los contratos mixtos, en ejercicio de la función de fiscalización material de las inversiones.
+c) A y b son correctas.
+d) Los contratos cuyo valor estimado exceda de 2.000.000 de euros.
+1
+19. Según la disposición adicional tercera de la LCSP, la aprobación del gasto podrá ser sustituida por una certificación de existencia de crédito, en los contratos celebrados en los municipios de…
+a) Más de 5.000 habitantes.
+b) Menos de 5.000 habitantes. 
+c) 5.000 habitantes.
+d) Menos de 50.000 habitantes.
+2
+20. Según la disposición adicional tercera de la LCSP, en los contratos celebrados en los municipios de menos de 5.000 habitantes, la aprobación del gasto podrá ser sustituida por una certificación de existencia de crédito que se expedirá por…
+a) El Secretario Interventor.
+b) El Interventor de la Corporación.
+c) El Pleno.
+d) A y b son correctas. 
+4
+21. Según la disposición adicional tercera de la LCSP, la supervisión de obras podrá efectuarse, en el caso de municipios que carezcan de las oficinas o unidades competentes de la propia entidad contratante, por las de la correspondiente…
+a) Diputación provincial o Administración autonómica uniprovincial. 
+b) Administración del Estado.
+c) Administración de las Comunidades Autónomas.
+d) Administración Central del Estado.
+1
+22. Según la disposición adicional tercera de la LCSP, los informes que la Ley asigna a los servicios jurídicos se evacuarán por…
+a) El Secretario. 
+b) El Interventor de la Corporación.
+c) El Pleno.
+d) El titular del Órgano de Apoyo a la Junta de Gobierno.
+1
+23. Según la disposición adicional tercera de la LCSP, en los contratos que tengan por objeto la adquisición de bienes inmuebles, el importe de la adquisición podrá ser objeto de un aplazamiento de hasta…
+a) 3 años.
+b) 4 años. 
+c) 5 años.
+d) 6 años.
+2
+24. Según la disposición adicional tercera de la LCSP, podrán licitar contratos no sujetos a regulación armonizada de concesión de servicios que se refieran a la gestión de dos o más servicios públicos diferentes, los Municipios de población…
+a) Superior a 5.000 habitantes.
+b) Inferior a 5.000 habitantes.
+c) Inferior a 20.000 habitantes. 
+d) Superior a 20.000 habitantes.
+3
+25. En un municipio de gran población, ¿quién será el órgano de contratación para la adjudicación de un contrato de obras?
+a) El Alcalde o el Pleno, dependiendo de su valor estimado y su duración.
+b) La Junta de Gobierno Local. 
+c) El Alcalde o el Pleno, dependiendo de su valor estimado.
+d) El pleno, necesariamente.
+2
+1. La definición del Presupuesto municipal la encontramos en…
+a) En el TRLRHL.
+b) En la LRBRL.
+c) En el ROF.
+d) a y b son correctas.   
+4
+2. Según el art. 163 del TRLRHL, el ejercicio presupuestario coincidirá con el año natural y a él se imputarán…
+a) Los derechos liquidados en el ejercicio, siempre que sean del período de que deriven.
+b) Las obligaciones reconocidas durante el ejercicio.   
+c) a y b son correctas.
+d) Ninguna es correcta.
+2
+3. Según el art. 164 del TRLRHL, las entidades locales elaborarán y aprobarán anualmente un presupuesto general en el que se integrarán…
+a) El presupuesto de la propia entidad, los de los organismos autónomos dependientes de ésta y los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca íntegramente a la entidad local.   
+b) El presupuesto de la propia entidad y los de los organismos autónomos dependientes de ésta.
+c) El presupuesto de la propia entidad, los de los organismos autónomos dependientes de ésta y los estados de previsión de gastos e ingresos de las sociedades mercantiles cuyo capital social pertenezca parcialmente a la entidad local.
+d) Ninguna es correcta.
+1
+4. Según el art. 165 del TRLRHL, el presupuesto general contendrá para cada uno de los presupuestos que en él se integren…
+a) Los estados de gastos, en los que se incluirán, con la debida especificación, los recursos necesarios para atender al cumplimiento de las obligaciones.
+b) Los estados de ingresos, en los que figurarán las estimaciones de los distintos recursos económicos a liquidar durante el ejercicio.    (a los créditos necesarios)
+c) Las bases de ejecución, que contendrán la debida clasificación orgánica y su desarrollo normativo.
+d) Todas son correctas.
+2
+5. Según el art. 165 del TRLRHL, los derechos liquidados y las obligaciones reconocidas se aplicarán a los presupuestos por su importe íntegro, quedando prohibido atender obligaciones mediante minoración de los derechos a liquidar o ya ingresados, salvo que…
+a) Se trate de gastos de personal.
+b) Sean autorizados excepcionalmente en virtud del art. 174 del TRLRHL.
+c) La ley lo autorice de modo expreso.   
+d) a y c son correctas.
+3
+6. Según el art. 166 del TRLRHL, al presupuesto general se unirán como anexos…
+a) Los planes y programas de inversión y financiación que, para un plazo de cuatro años, podrán formular los municipios y demás entidades locales de ámbito supramunicipal.
+b) Los programas anuales de actuación, inversiones y financiación de las sociedades mercantiles de cuyo capital social sea titular único o partícipe mayoritario la entidad local.
+c) El estado de consolidación del presupuesto de la propia entidad con el de todos los presupuestos y estados de previsión de sus organismos autónomos y sociedades mercantiles.
+d) Todas son correctas.   
+4
+7. Según el art. 167 del TRLRHL, señale lo que no sea correcto…
+a) La clasificación por programas constará de los siguientes niveles: el primero relativo al área de gasto, el segundo a la política de gasto, el tercero a los grupos de programas, que se subdividirán en programas.
+b) La clasificación económica presentará con separación los gastos corrientes y los gastos de capital.
+c) la clasificación económica constará de tres niveles, el primero relativo al capítulo, el segundo al concepto y el tercero al subconcepto.
+d) a y b son correctas.   
+4
+8. Según el art. 167 del TRLRHL, la aplicación presupuestaria cuya expresión cifrada constituye el crédito presupuestario vendrá definida, al menos, por…
+a) La conjunción de las clasificaciones orgánica, por programas y económica, a nivel de grupo de programa o programa y concepto o subconcepto respectivamente.
+b) La conjunción de las clasificaciones orgánica y económica, a nivel de grupo de programa o programa y concepto o subconcepto respectivamente.
+c) La conjunción de las clasificaciones por programas y económica, a nivel de grupo de programa o programa y concepto o subconcepto respectivamente.   
+d) Ninguna es correcta.
+3
+9. Según el art. 168 del TRLRHL, el presupuesto de la Entidad Local será formado por su Presidente y a él habrá de unirse la siguiente documentación (señale la incorrecta) …
+a) Memoria explicativa de su contenido y de las principales modificaciones que presente en relación con el vigente.
+b) Liquidación del presupuesto del ejercicio anterior y avance de la del corriente, referida, al menos, a tres meses del ejercicio corriente.    (seis meses)
+c) Anexo de personal de la Entidad Local.
+d) Anexo de las inversiones a realizar en el ejercicio.
+2
+10. Según el art. 168 del TRLRHL, el presupuesto de cada uno de los organismos autónomos integrantes del general, será remitido a la Entidad Local de la que dependan antes del…
+a) 30 de septiembre de cada año.
+b) 15 de octubre de cada año.
+c) 31 de diciembre de cada año.
+d) 15 de septiembre de cada año.   
+4
+11. Según el art. 168 del TRLRHL, el presidente de la entidad formará el presupuesto general y lo remitirá al Pleno de la corporación antes del día…
+a) 15 de octubre para su aprobación.
+b) 31 de octubre para su aprobación, enmienda o devolución.
+c) 15 de septiembre para su aprobación, enmienda o devolución.
+d) 15 de octubre para su aprobación, enmienda o devolución.   
+4
+12. Según el art. 169 del TRLRHL, ¿cuál es el plazo de información pública del presupuesto local?
+a) 30 días.
+b) 15 días.   
+c) 25 días.
+d) Un mes.
+2
+13. Según el art. 169 del TRLRHL, la aprobación definitiva del presupuesto general por el Pleno de la corporación habrá de realizarse antes del día…
+a) 31 de diciembre del año anterior al del ejercicio en que deba aplicarse.   
+b) 1 de diciembre del año anterior al del ejercicio en que deba aplicarse.
+c) 1 de enero del año en que deba aplicarse.
+d) Ninguna es correcta.
+1
+14. Según el art. 169 del TRLRHL, la prórroga del presupuesto no afectará a…
+a) Los créditos para servicios o programas que no deban concluir en el ejercicio anterior.
+b) Los créditos que estén financiados con crédito u otros ingresos específicos o afectados.    (que deban concluir)
+c) a y b son correctas.
+d) Los créditos destinados a amortización de deuda.
+2
+15. Según el art. 169 del TRLRHL, el presupuesto general, definitivamente aprobado, será insertado en…
+a) El boletín oficial de la corporación, si lo tuviera.
+b) Resumido por capítulos de cada uno de los presupuestos que lo integran, en el boletín de la provincia.
+c) En el Boletín de la comunidad autónoma uniprovincial.
+d) Todas son correctas.   
+4
+16. Según el art. 171 del TRLRHL, contra la aprobación provisional del Presupuesto el recurso que puede interponerse es…
+a) Es obligatorio interponer recurso de reposición previo al contencioso administrativo.
+b) Directamente Recurso ante el Tribunal de Cuentas.
+c) El Contencioso- Administrativo, sin necesidad de previa reposición.
+d) Ninguna es correcta.    (aprobación definitiva)
+4
+17. Según el art. 170 del TRLRHL, a los efectos de interponer reclamaciones contra el presupuesto, tendrán la consideración de interesados…
+a) Los habitantes en el territorio de la respectiva entidad local.
+b) Los que resulten directamente afectados, aunque no habiten en el territorio de la entidad local.
+c) Los colegios oficiales, cámaras oficiales, sindicatos, asociaciones y demás entidades legalmente constituidas para velar por intereses profesionales o económicos y vecinales, cuando actúen en defensa de los que les son propios.
+d) Todas son correctas.   
+4
+18. Según el art. 170 del TRLRHL, únicamente podrán entablarse reclamaciones contra el presupuesto…
+a) Por no haberse ajustado su elaboración y aprobación a los trámites establecidos en esta ley.    (c insuficiencia)
+b) Por omitir las previsiones de ingresos previstos legalmente.
+c) Por ser de manifiesta suficiencia los ingresos con relación a los gastos presupuestados o bien de estos respecto a las necesidades para las que esté previsto.
+d) Todas son correctas.
+1
+19. ¿Cuál de las siguientes órdenes establece la estructura del presupuesto local?
+a) Orden EAH/3565/2008, de 20 de abril.
+b) Orden EHA/3565/2008, de 3 de diciembre.   
+c) Real Decreto 500/1990, de 20 de abril.
+d) Real Decreto 500/1990, de 19 de abril.
+2
+20. ¿Cuál es la norma que regula actualmente las Haciendas Locales con rango de Ley?
+a) El Real Decreto Legislativo 2/2004, de 5 de marzo.   
+b) El Real Decreto 500/1990, de 20 de abril.
+c) El Real Decreto Legislativo 4/2004, de 5 de marzo.
+d) El Real Decreto Legislativo 5/2004, de 5 de marzo.
+1
+21. El primer nivel de la clasificación del gasto por programas será el/la…
+a) Política de gasto.
+b) Grupo de programa.
+c) Programa.
+d) Ninguna es correcta.    (área de gasto)
+4
+22. En relación con la clasificación económica, los gastos corrientes en bienes y servicios constituyen su capítulo…
+a) 1.
+b) 2.   
+c) 3.
+d) 4.
+2
+23. Los servicios públicos básicos se corresponden con el Área de gasto…
+a) 2.
+b) 3.
+c) 4.
+d) Ninguna es correcta.    (1)
+4
+24. Los gastos en inversiones reales se clasifican económicamente en…
+a) Capítulo 1 gasto de capital.
+b) Capítulo 5 gasto de capital.
+c) Capítulo 6 gasto de capital.   
+d) Capítulo 5 gasto corriente.
+3
+25. Los activos financieros se clasifican económicamente en…
+a) Capítulo 2 gasto de capital.
+b) Capítulo 3 gasto de capital.
+c) Capítulo 3 gasto corriente.
+d) Capítulo 8.   
+4
+26. Los impuestos directos se corresponden con el capítulo de ingresos…
+a) I.   
+b) V.
+c) VI.
+d) II.
+1
+27. Las Transferencias de capital se corresponden con…
+a) El capítulo IV de gastos.
+b) El capítulo VII de gastos.
+c) El capítulo VII de ingresos.
+d) b y c son correctas.   
+4
+28. Según el art. 177 del TRLRHL, será necesario acudir a la tramitación de un crédito extraordinario, siempre que…
+a) Se trate de un gasto de personal urgente.
+b) Sea insuficiente el crédito previsto.
+c) No exista crédito en el presupuesto.   
+d) b y c son correctas.
+3
+29. Según el art. 177 del TRLRHL, respecto a la tramitación de un crédito extraordinario es cierto que…
+a) Seguirá el procedimiento que indiquen las bases de ejecución.
+b) Deberá ser expuesto al público por plazo de 30 días.
+c) Se someterá a la aprobación del Pleno de la corporación, con sujeción a los mismos trámites y requisitos que los presupuestos.   
+d) Se someterá a la aprobación del Pleno de la corporación, con sujeción a los mismos trámites y requisitos que las Ordenanzas Fiscales.
+3
+30. Según el art. 177 del TRLRHL, la financiación de un crédito extraordinario podrá realizarse con cargo a…
+a) El Resultado presupuestario.
+b) El remanente líquido de tesorería.    (c presupuesto corriente)
+c) Con nuevos o mayores ingresos recaudados sobre los totales previstos en el presupuesto cerrado.
+d) Todas son correctas.
+2
+31. Según el art. 177 del TRLRHL, excepcionalmente, se considerarán recursos efectivamente disponibles para financiar nuevos o mayores gastos, por operaciones corrientes, que expresamente sean declarados necesarios y urgentes, los procedentes de operaciones de crédito en que se den conjuntamente las siguientes condiciones (señale la incorrecta) …
+a) Que su importe total anual no supere el diez por ciento de los recursos por operaciones corrientes del presupuesto de la entidad.    (5%)
+b) Que la carga financiera total de la entidad, incluida la derivada de las operaciones proyectadas, no supere el 25 por ciento de los expresados recursos.
+c) Que las operaciones queden canceladas antes de que se proceda a la renovación de la Corporación que las concierte.
+d) No hay ninguna incorrecta.
+1
+32. Según el art. 177 del TRLRHL, será necesario acudir a la tramitación de un suplemento de crédito, siempre que…
+a) No exista crédito en el presupuesto.
+b) No exista crédito en el presupuesto y se trate de un gasto que no pueda demorarse.
+c) Exista crédito en el presupuesto a nivel de vinculación jurídica.
+d) Ninguna es correcta.   
+4
+33. ¿Quién aprobará un crédito extraordinario?
+a) El Pleno.   
+b) El Alcalde.
+c) El Alcalde, si se lo han delegado.
+d) A y c son correctas.
+1
+34. ¿Se somete a información pública un crédito extraordinario?
+a) Si, siempre, por plazo de 30 días.
+b) No, no es un requisito necesario.
+c) Si, aunque puede no ser necesario.
+d) Si, necesariamente, por plazo de 15 días.   
+4
+35. La modificación del Presupuesto de gastos mediante la que, sin alterar la cuantía total del mismo, se imputa el importe total o parcial de un crédito a otras partidas presupuestarias con diferente vinculación jurídica, recibe el nombre de…
+a) Suplemento de crédito.
+b) Generación de crédito.
+c) Transferencia de gasto.
+d) Ninguna es correcta.    (transferencia de crédito).
+4
+36. Según el art. 179 del TRLRHL, respecto a las transferencias de crédito es cierto que…
+a) Las entidades locales regularán en las bases de ejecución del presupuesto el régimen de transferencias estableciendo, en cada caso, el órgano competente para autorizarlas.
+b) Los organismos autónomos podrán realizar operaciones de transferencias de crédito con sujeción a lo dispuesto en los apartados anteriores.
+c) Las modificaciones presupuestarias a que se refiere este artículo, en cuanto sean aprobadas por el Pleno, seguirán las normas sobre información, reclamaciones, recursos y publicidad a que se refieren los artículos 169, 170 y 171 de la ley.
+d) Todas son correctas.   
+4
+37. Según el art. 179 del TRLRHL, las transferencias de crédito entre distintos grupos de función (hoy día, áreas de gasto) corresponderá….
+a) Al Alcalde, salvo cuando las bajas y las altas afecten a créditos de personal.
+b) Al pleno, siempre.
+c) Al Alcalde, siempre.
+d) Al Pleno o al Alcalde, dependiendo de si afecta o no a créditos de personal.   
+4
+38. Según el art. 181 del TRLRHL, podrán generar crédito en los estados de gastos de los presupuestos, en la forma que reglamentariamente se establezca, los ingresos de naturaleza no tributaria derivados de las siguientes operaciones (señale la incorrecta) …
+a) Aportaciones o compromisos firmes de aportación de personas físicas o jurídicas para financiar, juntamente con la entidad local o con alguno de sus organismos autónomos, gastos que por su naturaleza están comprendidos en sus fines u objetivos.
+b) Enajenaciones de bienes de la entidad local o de sus organismos autónomos.
+c) Prestación de servicios.
+d) Reintegros de ingresos indebidos con cargo al presupuesto corriente, en cuanto a reposición del crédito en la correspondiente cuantía.    (pagos indebidos)
+4
+39. Según el art. 182 del TRLRHL, podrán incorporarse a los correspondientes créditos de los presupuestos de gastos del ejercicio inmediato siguiente, siempre que existan para ello los suficientes recursos financieros…
+a) Los créditos extraordinarios y los suplementos de créditos, así como las transferencias de crédito, que hayan sido concedidos o autorizados, respectivamente, en el último semestre del ejercicio.
+b) Los créditos por operaciones de capital.    (a trimestre, c recaudación de derechos afectados)
+c) Los créditos autorizados en función de la efectiva ejecución de los gastos.
+d) Todas son correctas.
+2
+40. Según el art. 182 del TRLRHL, deberán incorporarse obligatoriamente, salvo que se desista total o parcialmente de iniciar o continuar la ejecución del gasto…
+a) Los gastos referentes a personal.
+b) Los gastos derivados de operaciones de crédito.
+c) Los créditos que amparen proyectos financiados con ingresos afectados.   
+d) Todas son correctas.
+3
+
+1. Según el art. 183 del TRLRHL, la ejecución de los créditos consignados en el presupuesto de gastos de las entidades locales se efectuará… 
+a) Únicamente conforme a lo dispuesto al TRLRHL. 
+b) Conforme a lo dispuesto al TRLRHL y complementariamente, por las normas que dicte cada entidad y queden plasmadas en las bases de ejecución del presupuesto.    
+c) Conforme a la Ley de Bases de Régimen Local. 
+d) Conforme a la Ley de Presupuestos Generales del Estado. 
+2
+2. Según el art. 184 del TRLRHL, la gestión del presupuesto de gastos se realizará en las siguientes fases... 
+a) Autorización de gasto, Retención del gasto, Reconocimiento de la liquidación y Disposición o compromiso de gasto. 
+b) Autorización de la liquidación, Disposición o compromiso del gasto, Reconomiciento de la obligación y ordenación del compromiso del gasto. 
+c) Autorización de la Obligación, Disposición o compromiso del gasto, reconocimiento o liquidación de la obligación y ordenación de pago. 
+d) Autorización del gasto, Disposición o compromiso del gasto, reconocimiento y liquidación de la obligación y ordenación del pago.    
+4
+3. Conforme al art. 184 del TRLRHL, indique lo que no sea cierto… 
+a) Es una fase de gestión del presupuesto de gastos la autorización del gasto. 
+b) Es una fase de gestión del presupuesto de gastos la disposición o compromiso del gasto. 
+c) Es una fase de gestión el reconocimiento o liquidación del gasto.    
+d) Las entidades locales podrán en la forma que reglamentariamente se establezca abarcar en un solo acto administrativo dos o más fases de ejecución de las enumeradas en el apartado anterior. 
+3
+4. Como prevé el art. 185 del TRLRHL, dentro del importe de los créditos autorizados en los presupuestos, corresponderá la autorización y disposición de los gastos… 
+a) Siempre, a la Administración Pública, de acuerdo con la atribución de competencias que establezca la normativa vigente. 
+b) Al presidente o al Pleno de la entidad, de acuerdo con la atribución de competencias que establezca la normativa vigente.    
+c) Al presidente de la corporación, de acuerdo con la atribución de competencias que establezca la normativa vigente. 
+d) Al Ministerio de Hacienda, previo informe, en su caso, de la comunidad autónoma con competencia en la materia. 
+2
+5. Según el art. 185 del TRLRHL, el reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos, corresponderá… 
+a) Siempre, a la Administración Pública de acuerdo con la atribución de competencias que establezca la normativa vigente. 
+b) Al presidente o al Pleno de la entidad de acuerdo con la atribución de competencias que establezca la normativa vigente. 
+c) Al presidente de la corporación.    
+d) Al Ministerio de Hacienda, previo informe, en su caso, de la comunidad autónoma con competencia en la materia. 
+3
+6. Según el art. 185 del TRLRHL, las delegaciones de las facultades de autorización y disposición de los gastos, así como del reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos, deberán recogerse… 
+a) Para cada ejercicio, en las bases de ejecución del presupuesto.    
+b) En el reglamento de iniciación de ejecución del presupuesto. 
+c) En la orden de estructura presupuestaria. 
+d) a y c son correctas. 
+1
+7. Como prevé el art. 186 del TRLRHL, el presidente de la entidad local tiene la competencia de… 
+a) La gestión de gastos. 
+b) La ordenación de pagos.    
+c) La disposición de gastos y el reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos. 
+d) Ninguna es correcta. 
+2
+8. Conforme al art. 186 del TRLRHL, ¿quién podrá crear una unidad de ordenación de pagos que ejerza las funciones administrativas de la ordenación de pagos? 
+a) Los Concejales, reunidos en pleno, por unanimidad y a propuesta del Alcalde. 
+b) El Alcalde. 
+c) El Pleno de la entidad local, a propuesta de la Junta de Gobierno Local. 
+d) El Pleno de la entidad local, a propuesta del presidente.    
+4
+9. Según el art. 186 del TRLRHL, ¿en qué entidades locales, se podrá crear una unidad central de tesorería que ejerza las funciones de la ordenación de pagos? 
+a) En entidades locales de más de 500.000 habitantes de derecho.    
+b) En entidades locales de más de 300.000 habitantes de derecho. 
+c) En entidades locales de más de 100.000 habitantes de derecho. 
+d) En entidades locales de más de 50.000 habitantes de derecho. 
+1
+10. Según el art. 186 del TRLRHL, la ordenación de pagos en los organismos autónomos la ejercerá… 
+a) El Pleno de la entidad local, a propuesta del Alcalde. 
+b) El órgano de éstos que, por estatutos, la tenga atribuida.    
+c) El Pleno de la entidad local, a propuesta del presidente. 
+d) El órgano colegiado superior de este Organismo. 
+2
+11. Como prevé el art. 187 del TRLRHL, la expedición de las órdenes de pago habrá de acomodarse… 
+a) Al plan de asignación de fondos de la tesorería que se establezca por el Pleno. 
+b) Al plan de distribución de capitales de la tesorería que se establezca por el Alcalde. 
+c) Al plan de disposición de fondos de la tesorería que se establezca por el presidente.    
+d) Al plan de ordenación de fondos de la tesorería que se establezca por el presidente. 
+3
+12. Conforme el art. 187 de la TRLRHL, la expedición de las órdenes de pago deberá… 
+a) En todo caso, recoger la prioridad de las obligaciones contraídas en ejercicios anteriores.    
+b) En todo caso, recoger la prioridad de los gastos plurianuales de personal. 
+c) En algunos casos, recoger la prioridad de las obligaciones contraídas en ejercicios futuros. 
+d) a y b son correctas. 
+1
+13. La regulación de los requisitos previos a la expedición de órdenes de pago, viene recogida… 
+a) En el artículo 186 del TRLRHL. 
+b) En el artículo 187 del TRLRHL. 
+c) En el artículo 189 del TRLRHL.    
+d) En el artículo 190 del TRLRHL. 
+3
+14. Según el art. 188 del TRLRHL, los ordenadores de gastos y de pagos, en todo caso, y los interventores de las entidades locales, cuando no adviertan por escrito su improcedencia… 
+a) Serán los que ejecuten la gestión de presupuesto de gasto. 
+b) Serán personalmente responsables de todo gasto que autoricen y de toda obligación que reconozcan, liquiden o paguen sin crédito suficiente.    
+c) Serán los que personalmente ordenen la gestión del presupuesto y liquidación de pagos. 
+d) a y b son correctas. 
+2
+15. Según el art. 189 del TRLRHL, ¿cuándo habrá de acreditarse documentalmente ante el órgano que haya de reconocer las obligaciones, la realización de la prestación o el derecho del acreedor de conformidad con los acuerdos que en su día autorizaron y comprometieron el gasto? 
+a) A partir de los 5 días siguientes a la expedición de las órdenes de pago. 
+b) No se exige acreditar documentalmente la realización de la prestación ante ningún órgano, tanto para los gastos a justificar como en los anticipos de caja fija. 
+c) A partir de los 10 días siguientes a la expedición de las órdenes de pago con cargo a los presupuestos de la entidad local y de sus organismos autónomos. 
+d) Previamente a la expedición de las órdenes de pago con cargo a los presupuestos de la entidad local y de sus organismos autónomos.    
+4
+16. Como prevé el art. 189 del TRLRHL, los perceptores de subvenciones concedidas con cargo a los presupuestos de las entidades locales y de los organismos autónomos vendrán obligados a acreditar… 
+a) Antes de su percepción, que se encuentran al corriente de sus obligaciones fiscales con la entidad, así como, posteriormente, a justificar la aplicación de los fondos recibidos.    
+b) Antes de su percepción, a justificar la aplicación de los fondos recibidos, así como, posteriormente, a que se encuentran al corriente de sus obligaciones fiscales con la entidad. 
+c) En cualquier momento del procedimiento, a que se encuentran al corriente de sus obligaciones administrativas que le requiera la Administración. 
+d) En cualquier momento del procedimiento, a que se encuentra al corriente de sus obligaciones fiscales con la entidad. 
+1
+17. Conforme al art. 190 del TRLRHL, las órdenes de pago cuyos documentos no se puedan acompañar en el momento de su expedición, según informa el artículo 189 del mismo texto… 
+a) Serán inválidas hasta que se adjunten todos los documentos necesarios. 
+b) Tendrán el carácter de a justificar y se aplicarán a los correspondientes créditos presupuestarios.    
+c) Serán válidas, siempre que sean justificadas en el plazo de un año y podrá proseguir el procedimiento establecido. 
+d) a y b son correctas. 
+2
+18. Según el art. 190 del TRLRHL, las bases de ejecución del presupuesto podrán establecer, las normas que regulen la expedición de órdenes de pago a justificar con cargo a los presupuestos de gastos… 
+a) Previa instrucción de la Intervención, determinando los límites cuantitativos presupuestarios. 
+b Previo informe de la Intervención, determinando los criterios especiales, los límites cuantitativos y los conceptos presupuestarios a los que sean aplicables. 
+c) Previo informe de la Intervención, determinando los criterios generales, los límites cuantitativos y los conceptos presupuestarios a los que sean aplicables.    
+d) Previo informe de la Tesorería, determinando los criterios especiales, los límites cualitativos y los conceptos presupuestarios a los que sean aplicables. 
+3
+19. Según el art. 190 del TRLRHL, los perceptores de las órdenes de pago quedarán obligados a justificar la aplicación de las cantidades percibidas… 
+a) En el plazo máximo de tres meses.    
+b) En el plazo mínimo de tres meses. 
+c) En el plazo máximo de dos meses. 
+d) En el plazo mínimo de cinco meses. 
+1
+20. Como prevé el art. 190 del TRLRHL, ¿cuándo podrán expedirse nuevas órdenes de pago a justificar, por los mismos conceptos presupuestarios, a perceptores que tuviesen aún en su poder fondos pendientes de justificación? 
+a) Siempre, en cualquier momento del procedimiento. 
+b) En ningún caso.    
+c) En el plazo mínimo de tres meses. 
+c) Durante todo el ejercicio presupuestario. 
+2
+21. Conforme el art. 190 del TRLRHL, para las atenciones de carácter periódico o repetitivo, los fondos librados a justificar podrán tener el carácter de… 
+a) Preferencias de caja. 
+b) Anticipos de caja variable. 
+c) Anticipos de caja fija.    
+d) Gastos a justificar. 
+3
+22. Según el art. 190 del TRLRHL, los perceptores de los fondos de anticipos de caja fija… 
+a) Quedarán obligados a justificar la aplicación de las cantidades percibidas a lo largo del ejercicio presupuestario en que se constituyó el anticipo.    
+b) No quedarán obligados a justificar la aplicación de las cantidades percibidas a lo largo del ejercicio presupuestario en que se constituyó el anticipo. 
+c) Quedarán obligados a justificar la aplicación de las cantidades percibidas dentro de los 3 meses siguientes a aquel en que se constituyó el anticipo. 
+d) Podrán justificar los gastos realizados en cualquier momento anterior a la aprobación de la liquidación presupuestaria. 
+1
+23. Según el art. 191 del TRLRHL, el presupuesto de cada ejercicio se liquidará en cuanto a la recaudación de derechos y al pago de obligaciones… 
+a) El 31 de enero del año natural correspondiente, quedando a cargo de la Tesorería General del Estado los ingresos y pagos pendientes. 
+b) El 1 de enero del año natural correspondiente, quedando a cargo de la Tesorería General del Estado los ingresos y pagos pendientes. 
+c) El 31 de diciembre del año natural correspondiente, quedando a cargo de la Tesorería General del Estado los ingresos y pagos pendientes. 
+d) El 31 de diciembre del año natural correspondiente, quedando a cargo de la Tesorería local los ingresos y pagos pendientes.    
+4
+24. Como prevé el art. 191 del TRLRHL, ¿qué conformarán el remanente de tesorería de la entidad local? 
+a) Los derechos presupuestarios netos liquidados durante el ejercicio y las obligaciones presupuestarias netas reconocidas durante el mismo período. 
+b) Los derechos presupuestarios netos liquidados durante el ejercicio y las obligaciones reconocidas netas reconocidas durante el mismo período. 
+c) Las obligaciones reconocidas y liquidadas satisfechas el último día del ejercicio, los derechos pendientes de cobro y los fondos líquidos a 31 de diciembre. 
+d) Ninguna es correcta.    (c no satisfechas el último día) 
+4
+25. Según el art. 191 del TRLRHL, las entidades locales deberán confeccionar la liquidación de su presupuesto… 
+a) Antes del último día de marzo del ejercicio siguiente. 
+b) Antes del día primero de marzo del ejercicio siguiente.    
+c) Antes del último día de marzo del ejercicio presente. 
+d) Antes del día primero de marzo del ejercicio presente. 
+2
+26. Según el art. 191 del TRLRHL, la aprobación de la liquidación del presupuesto corresponde… 
+a) Al presidente de la entidad local, previo informe de la Intervención.    
+b) A la Tesorería local, al igual que el Plan de disposición de fondos. 
+c) A la Intervención, según la propuesta del presidente de la entidad local. 
+d) Al pleno, a propuesta del Alcalde. 
+1
+27. Como prevé el art. 192 del TRLRHL, sobre la liquidación de los presupuestos de los organismos autónomos (señala la respuesta más correcta) … 
+a) La liquidación se ajustará a lo dispuesto en el artículo 191 del TRLRHL. 
+b) Se regularán, reglamentariamente, las operaciones de cierre del ejercicio económico y de liquidación de los presupuestos, atendiendo al carácter de los citados organismos. 
+c) La liquidación será remitida a la entidad local para su aprobación por su presidente. 
+d) Todas son correctas.    
+4
+28. Conforme el art. 193 del TRLRHL, en caso de liquidación del presupuesto con remanente de tesorería negativo, ¿quién deberán proceder, a la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido? 
+a) La Tesorería local. 
+b) El presidente de la entidad local, previo informe de la Intervención. 
+c) El Pleno de la corporación o el órgano competente del organismo autónomo, según corresponda.    
+d) El Pleno de la corporación, previa propuesta de la Junta de Gobierno Local, donde ésta exista. 
+3
+29. Según el art. 193 del TRLRHL, la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido sólo podrá revocarse … 
+a) Por acuerdo del Pleno. 
+b) A propuesta del presidente, y previo informe del Interventor. 
+c) Cuando el desarrollo normal del presupuesto y la situación de la tesorería lo consintiesen. 
+d) Todas son correctas.    
+4
+30. Según el art. 193 del TRLRHL, de no adoptarse ninguna de las medidas previstas en el art. 193.1 y 2… 
+a) El presupuesto del ejercicio siguiente habrá de aprobarse con un superávit inicial de cuantía no inferior al déficit.    
+b) El presupuesto del ejercicio actual habrá de aprobarse nuevamente con un superávit inicial de cuantía inferior al déficit. 
+c) Deberá aprobarse una operación de crédito por el importe del déficit producido. 
+d) a y c son correctas. 
+1
+31. Como prevé el art. 193 del TRLRHL, de la liquidación de cada uno de los presupuestos que integran el presupuesto general y de los estados financieros de las sociedades mercantiles dependientes de la entidad… 
+a) Una vez iniciada, se dará cuenta al Pleno en la primera sesión que celebre. 
+b) Una vez realizada su aprobación, se dará cuenta al Pleno en la primera sesión que celebre.    
+c) Una vez realizada su ejecución, se dará cuenta la Pleno en la primera sesión que se celebre. 
+d) Una vez finalizada, se dará cuenta al Pleno para que tenga conocimiento de ello. 
+2
+32. Conforme al art. 193 del TRLRHL, las entidades locales remitirán copia de la liquidación de sus presupuestos a la Administración del Estado y a la comunidad autónoma… 
+a) Antes del primer día de marzo del ejercicio siguiente al que corresponda. 
+b) Antes de finalizar el mes de marzo del ejercicio siguiente al que corresponda.    
+c) Antes del último día de octubre del ejercicio siguiente al que corresponda. 
+d) No existe plazo previsto para esta actuación. 
+2
+33. Según el art. 193 del TRLRHL, indique lo que sea incorrecto… 
+a) De la liquidación de cada uno de los presupuestos que integran el presupuesto general y de los estados financieros de las sociedades mercantiles dependientes de la entidad, una vez realizada su aprobación, se dará cuenta al Pleno en la primera sesión que celebre. 
+b) Las entidades locales remitirán copia de la liquidación de sus presupuestos a la Administración del Estado y a la comunidad autónoma antes de finalizar el mes de marzo del ejercicio siguiente al que corresponda. 
+c) En caso de liquidación del presupuesto con remanente de tesorería negativo, el Pleno de la corporación o el órgano competente del organismo autónomo, según corresponda, deberán proceder, en la primera sesión que celebren, a la reducción de gastos del nuevo presupuesto por cuantía igual al déficit producido. 
+d) La falta de remisión de la liquidación en el plazo señalado facultará a la Administración para acudir al concierto de operación de crédito por su importe, siempre que se den las condiciones señaladas en el artículo 177.5 de esta ley.    
+4
+34. Según el art. 193 bis del TRLRHL, ¿a quién deberán informar las entidades locales del resultado de la aplicación de los criterios determinantes de los derechos de difícil o imposible recaudación? 
+a) Al propio pleno. 
+b) Al Ministerio de Hacienda y Administraciones Públicas y a su Pleno.    
+c) Al Ministerio de Hacienda y Administraciones Públicas y al Alcalde. 
+d) Al Ministerio de Hacienda y Administraciones Públicas, exclusivamente. 
+2
+35. Como prevé el art. 193 bis del TRLRHL, respecto a los límites de los derechos pendientes que tendrán la consideración de difícil o imposible recaudación no es cierto que… 
+a) Los derechos pendientes de cobro liquidados dentro de los presupuestos de los dos ejercicios anteriores al que corresponde la liquidación, se minorarán, como mínimo, en un 25 por ciento. 
+b) Los derechos pendientes de cobro liquidados dentro de los presupuestos del ejercicio tercero anterior al que corresponde la liquidación, se minorarán, como mínimo, en un 50 por ciento. 
+c) Los derechos pendientes de cobro liquidados dentro de los presupuestos de los ejercicios cuarto a quinto anteriores al que corresponde la liquidación, se minorarán, como mínimo, en un 85 por ciento.    (75 por ciento) 
+d) Los derechos pendientes de cobro liquidados dentro de los presupuestos de los restantes ejercicios anteriores al que corresponde la liquidación, se minorarán en un 100 por ciento. 
+3
+36. Según el art. 214 del TRLRHL, el ejercicio de la función interventora comprenderá… 
+a) La intervención crítica o previa de todo acto, documento o expediente susceptible de producir derechos u obligaciones de contenido económico o movimiento de fondos de valores.    
+b) La intervención formal de la ordenación del gasto. 
+c) La intervención material del gasto. 
+d) Todas son correctas. 
+1
+37. Según el art. 215 del TRLRHL, si en el ejercicio de la función interventora el órgano interventor se manifestara en desacuerdo con el fondo o con la forma de los actos, documentos o expedientes examinados, deberá… 
+a) Formular por escrito requerimiento de anulación. 
+b) Formular sus reparos por escrito antes o después de la adopción del acuerdo o resolución. 
+c) Formular sus reparos por escrito antes de la adopción del acuerdo o resolución.    
+d) a y b son correctas. 
+3
+38. Según el art. 216 del TRLRHL, cuando la disconformidad se refiera al reconocimiento o liquidación de derechos a favor de las entidades locales… 
+a) Se suspenderá la tramitación del expediente hasta que aquél sea solventado cuando se base en la insuficiencia de crédito o el propuesto no sea adecuado. 
+b) Se suspenderá la tramitación del expediente hasta que aquél sea solventado cuando no hubieran sido fiscalizados los actos que dieron origen a las órdenes de pago. 
+c) a y b son correctas. 
+d) Ninguna es correcta.    (la oposición se formalizará en nota de reparo que, en ningún caso, suspenderá la tramitación del expediente) 
+4
+39. Según el art. 217 del TRLRHL, corresponderá al Pleno la resolución de las discrepancias cuando los reparos… 
+a) Se basen en insuficiencia o inadecuación de crédito.    
+b) Se refieran a obligaciones o gastos cuya aprobación no sea de su competencia. 
+c) Se basen en omisión en el expediente de requisitos o trámites esenciales. 
+d) a y b son correctas. 
+1
+40. Según el art. 218 del TRLRHL, indique lo que sea incorrecto… 
+a) El órgano interventor elevará informe al Pleno de todas las resoluciones adoptadas por el Presidente de la Entidad Local contrarias a los reparos efectuados. 
+b) Cuando existan discrepancias, el Pleno de la Entidad Local podrá elevar su resolución al órgano de control competente por razón de la materia de la Administración que tenga atribuida la tutela financiera.    (el Presidente) 
+c) El órgano interventor remitirá anualmente al Tribunal de Cuentas todas las resoluciones y acuerdos adoptados por el Presidente de la Entidad Local y por el Pleno de la Corporación contrarios a los reparos formulados. 
+d) El órgano interventor remitirá anualmente al Tribunal de Cuentas un resumen de las principales anomalías detectadas en materia de ingresos. 
+2
+41. Según el art. 219 del TRLRHL, no estarán sometidos a intervención previa… 
+a) Los gastos de material inventariable y los contratos menores. 
+b) Los gastos de material inventariable y los contratos menores de 3.005,06 euros que, de acuerdo con la normativa vigente, se hagan efectivos a través del sistema de anticipos de caja fija. 
+c) Los de carácter periódico y demás de tracto sucesivo, una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones.    
+d) a y c son correctas. 
+3
+42. Según el art. 219 del TRLRHL, el Pleno podrá acordar, a propuesta del presidente y previo informe del órgano interventor, que la intervención previa se limite a comprobar los siguientes extremos… 
+a) La existencia de crédito presupuestario y que el propuesto es el adecuado a la naturaleza de gasto u obligación que se proponga contraer. 
+b) Que las obligaciones o gasto se generan por órgano competente. 
+c) Aquellos otros extremos que, por su trascendencia en el proceso de gestión, se determinen por el Pleno a propuesta del presidente. 
+d) Todas son correctas.    
+4
+43. Según el art. 219 del TRLRHL, indique lo que sea incorrecto… 
+a) Las obligaciones o gastos sometidos a la fiscalización limitada serán objeto de otra plena con posterioridad, ejercida sobre una muestra representativa de los actos, documentos o expedientes que dieron origen a la referida fiscalización. 
+b) Los órganos de control interno que realicen las fiscalizaciones con posterioridad deberán emitir informe escrito en el que hagan constar cuantas observaciones y conclusiones se deduzcan de ellas. 
+c) Estos informes se remitirán al Presidente con las observaciones que hubieran efectuado los órganos gestores.    (al pleno) 
+d) Las entidades locales podrán determinar, mediante acuerdo del Pleno, la sustitución de la fiscalización previa de derechos por la inherente a la toma de razón en contabilidad. 
+3
+44. Según el art. 221 del TRLRHL, ¿Cómo se conoce a la comprobación periódica del grado de cumplimiento de los objetivos, así como el análisis del coste de funcionamiento y del rendimiento de los respectivos servicios o inversiones? 
+a) Función interventora. 
+b) Control de eficiencia. 
+c) Control de eficacia.    
+d) Control financiero. 
+3
+45. Según el art. 223 del TRLRHL, las entidades locales rendirán al Tribunal de Cuentas la cuenta general… 
+a) Antes del día 15 de octubre de cada año.    
+b) Antes del día 1 de octubre de cada año. 
+c) Antes del día 31 de octubre de cada año. 
+d) Antes del día 16 de octubre de cada año
+1

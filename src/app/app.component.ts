@@ -8,7 +8,12 @@ import { Component, ElementRef, ViewChild } from '@angular/core';
 })
 export class AppComponent {
 
+  arraydefiniciones: any[] = null //
   opcion: string = 'T'; // opcion radiobuton
+  definiciones: any[] = [];
+  definicion : any = {};
+
+
   cantidad: number = 50;  //numero de preguntas en examen
   test: any = null;
   pregunta: any = {};
@@ -31,10 +36,14 @@ export class AppComponent {
 
   constructor() {
     console.log('Iniciamos...');
-  }  
-  hayPregunta() {
-    return Object.entries(this.pregunta??0).length === 0;
   }
+  hayPregunta() {
+    return Object.entries(this.pregunta ?? 0).length === 0;
+  }
+  hayDefinicion() {
+    return Object.entries(this.definiciones ?? 0).length === 0;
+  }
+
   rellenaExamen(): void {
     if (this.test) {
       let pregunta = {};
@@ -52,8 +61,30 @@ export class AppComponent {
         }
       }
     }
-    
+
   }
+  rellenaDefiniciones(): void {
+    if (this.arraydefiniciones) {
+      let definicion = {};
+      this.arraydefiniciones.forEach(def => {
+        const lineas = def.replace('\r', '').split('\n').filter(e => e.length > 0)
+
+        for (let i = 0; i < lineas.length; i++) {
+          if (i == 0) {
+            definicion['titulo'] = lineas[i]
+          }
+          else {
+            definicion[`definicion${i}`] = lineas[i];
+          }
+        }
+        
+        this.definiciones.push(definicion);
+        definicion = {};
+      }
+      )
+    }
+  }
+
 
   getAleatorio(max) {
     return Math.floor(Math.random() * max);
@@ -79,27 +110,43 @@ export class AppComponent {
       reader.readAsText(fichero);
       reader.onload = () => {
         res = reader.result;
-      }            
+        this.arraydefiniciones = res.replace('\r', '').split('*');
+
+      }
     }
   }
+
 
   getPregunta() {
     this.disabled = true;
-    this.validarDisabled = false;    
+    this.validarDisabled = false;
     if (this.contador < this.cantidad) {
-      const pregunta = this.preguntas[this.preguntadas[this.contador]];      
+      const pregunta = this.preguntas[this.preguntadas[this.contador]];
       return pregunta;
     }
   }
+  getDefinicion() {
+    if (this.contador < this.cantidad) {
+      const definicion = this.definiciones[this.preguntadas[this.contador]];
+      return definicion;
+    }
+  }
 
-  siguientePregunta() {    
+
+  siguientePregunta() {
     this.contador++;
     this.seleccionada = null;
     this._body.nativeElement.style.backgroundColor = '#fff';
     this.pregunta = this.getPregunta();
   }
+  siguienteDefinicion() {
+    this.contador++;
+    this.seleccionada = null;
+    this._body.nativeElement.style.backgroundColor = '#fff';
+    this.definicion = this.getDefinicion();
+  }
 
-  tam(){
+  tam() {
     return (this.cantidad < this.preguntas.length) ? this.cantidad : this.preguntas.length;
   }
   // Crea un examen
@@ -116,17 +163,37 @@ export class AppComponent {
       this.preguntadas.push(num);
     }
   }
+  creaNumerodeDefiniciones() {
+    this._iniciar.nativeElement.hidden = true;
+    this.preguntadas = [];
+    for (let i = 0; i < this.definiciones.length; i++) {
+      let buscar = true;
+      let num = 0;
+      while (buscar) {
+        num = this.getAleatorio(this.definiciones.length);
+        buscar = this.preguntadas.includes(num);
+      }
+      this.preguntadas.push(num);
+    }
+  }
 
+  creaDefiniciones() {
+    this.contador = 0;
+    this.rellenaDefiniciones();
+    this.creaNumerodeDefiniciones();
+
+    this.definicion = this.getDefinicion();
+  }
   creaExamen() {
     this.contador = 0;
     this.rellenaExamen();
     this.creaNumerodePreguntas()
-    
-    
+
+
     console.log(this.test)
     console.log(this.preguntas)
     console.log(this.preguntadas);
-    
+
     console.log(this.seleccionada)
     this.pregunta = this.getPregunta();
     console.log(this.preguntas)
@@ -135,7 +202,7 @@ export class AppComponent {
   validar() {
     console.log(this.pregunta);
     console.log('seleccionada:', this.seleccionada);
-    
+
     if (!this.seleccionada) return;
     if (this.seleccionada.toString().trim() === this.pregunta.correcta.toString().trim()) {
       console.log('CORRECTA')
@@ -152,8 +219,8 @@ export class AppComponent {
     this.disabled = false;
     this.validarDisabled = false;
   }
-  haySiguiente(){
-    return (this.contador >= this.cantidad) ? false: true;
+  haySiguiente() {
+    return (this.contador >= this.cantidad) ? false : true;
   }
 
 }

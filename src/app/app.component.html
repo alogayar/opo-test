@@ -333,18 +333,26 @@
   <div class="mr-3">
     <div style="text-align: center; position: relative; top: 40%">
       <h2
-        *ngIf="!test"
+        *ngIf="!test && !arraydefiniciones"
         class="animate__animated animate__backInDown display-5 text-center"
       >
         Debes seleccionar fichero de {{opcion === 'D' ? 'Definiciones': 'Test'}}
       </h2>
-      <button
+      <button 
         class="btn btn-secondary btn-sm"
         #biniciar
-        *ngIf="test"
+        *ngIf="test && opcion === 'T'"
         (click)="creaExamen()"
       >
         Iniciar Examen
+      </button>
+      <button 
+        class="btn btn-secondary btn-sm"
+        #biniciar
+        *ngIf="arraydefiniciones && opcion === 'D'"
+        (click)="creaDefiniciones()"
+      >
+        Iniciar Definiciones
       </button>
     </div>
     <div *ngIf="!hayPregunta()" class="test-body">
@@ -424,6 +432,34 @@
         Siguiente Pregunta..
       </button>
     </div>
+
+    <div *ngIf="!hayDefinicion()" class="test-body">
+      <div #body class="definiciones body-test animate__animated animate__fadeIn marco">
+        <ng-container >
+          <p class="pregunta">{{definicion.titulo}}</p>
+          <p *ngIf="definicion.definicion1">{{definicion.definicion1}}</p>
+          <p *ngIf="definicion.definicion2">{{definicion.definicion2}}</p>
+          <p *ngIf="definicion.definicion3">{{definicion.definicion3}}</p>
+          <p *ngIf="definicion.definicion4">{{definicion.definicion4}}</p>
+          <p *ngIf="definicion.definicion5">{{definicion.definicion5}}</p>
+          <p *ngIf="definicion.definicion6">{{definicion.definicion6}}</p>
+          <p *ngIf="definicion.definicion7">{{definicion.definicion7}}</p>
+          <p *ngIf="definicion.definicion8">{{definicion.definicion8}}</p>
+          <p *ngIf="definicion.definicion9">{{definicion.definicion9}}</p>
+        </ng-container>
+         
+      </div>
+      
+      <button
+        #siguiente
+        *ngIf="haySiguiente()"        
+        class="respuesta btn btn-secondary btn-sm"
+        (click)="siguienteDefinicion()"
+      >
+        Siguiente Definicion..
+      </button>
+    </div>
+
   </div>
   <div *ngIf="opcion==='T'" class="resultados d-flex justify-content-between">
     <p>

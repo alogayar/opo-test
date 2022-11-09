@@ -8,6 +8,7 @@ import { Component, ElementRef, ViewChild } from '@angular/core';
 })
 export class AppComponent {
 
+  opcion: string = 'T'; // opcion radiobuton
   cantidad: number = 50;  //numero de preguntas en examen
   test: any = null;
   pregunta: any = {};
@@ -58,15 +59,28 @@ export class AppComponent {
     return Math.floor(Math.random() * max);
   }
   cargarArchivo(e) {
-    let res;
-    const fichero = e.target.files[0];
-    if (!fichero) return;
-    const reader = new FileReader();
-    reader.readAsText(fichero);
-    reader.onload = () => {
-      res = reader.result;
-      this.test = res.replace('\r', '').split('\n');
-    };
+
+    if (this.opcion === 'T') {
+      let res;
+      const fichero = e.target.files[0];
+      if (!fichero) return;
+      const reader = new FileReader();
+      reader.readAsText(fichero);
+      reader.onload = () => {
+        res = reader.result;
+        this.test = res.replace('\r', '').split('\n');
+      };
+    }
+    else {
+      let res;
+      const fichero = e.target.files[0];
+      if (!fichero) return;
+      const reader = new FileReader();
+      reader.readAsText(fichero);
+      reader.onload = () => {
+        res = reader.result;
+      }            
+    }
   }
 
   getPregunta() {

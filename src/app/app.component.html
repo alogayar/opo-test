@@ -1,13 +1,14 @@
 <style>
   :host {
-    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+      "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 14px;
     color: #333;
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-
 
   h1,
   h2,
@@ -151,8 +152,6 @@
     margin-left: 5px;
   }
 
-
-
   .terminal {
     position: relative;
     width: 80%;
@@ -224,18 +223,19 @@
     align-items: center;
     font-size: 12px;
     padding: 3px 10px;
-    border: 1px solid rgba(27, 31, 35, .2);
+    border: 1px solid rgba(27, 31, 35, 0.2);
     border-radius: 3px;
     background-image: linear-gradient(-180deg, #fafbfc, #eff3f6 90%);
     margin-left: 4px;
     font-weight: 600;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+      sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
   }
 
   .github-star-badge:hover {
     background-image: linear-gradient(-180deg, #f0f3f6, #e6ebf1 90%);
-    border-color: rgba(27, 31, 35, .35);
-    background-position: -.5em;
+    border-color: rgba(27, 31, 35, 0.35);
+    background-position: -0.5em;
   }
 
   .github-star-badge .material-icons {
@@ -252,11 +252,9 @@
     width: 1920px;
   }
 
-
   /* Responsive Styles */
   @media screen and (max-width: 767px) {
-
-    .card-container>*:not(.circle-link),
+    .card-container > *:not(.circle-link),
     .terminal {
       width: 100%;
     }
@@ -286,80 +284,156 @@
 
 <!-- Toolbar -->
 <div class="toolbar" role="banner">
-  <img width="40" alt="Angular Logo"
-    src="../assets/test.png" />
-  <span>OPO - TEST - {{preguntas.length}} PREGUNTAS.</span>
+  <img width="40" alt="Angular Logo" src="../assets/test.png" />
+  <span>OPO - TEST - {{ preguntas.length }} PREGUNTAS.</span>
   <div class="spacer"></div>
- 
+
+  <div style="margin-right: 20px">
+    <label for="tipoDefiniciones">
+      <div id="definicion" class="mr-50">
+        <input
+          id="tipoDefiniciones"
+          [value]="'T'"
+          type="radio"
+          name="tipoSeleccion"
+          [(ngModel)]="opcion"
+        />
+        <span class="pl-5px"> Test </span>
+      </div>
+    </label>
+    <label for="tipoTest">
+      <div id="test" class="fila">
+        <input
+          id="tipoTest"
+          [value]="'D'"
+          type="radio"
+          name="tipoSeleccion"
+          [(ngModel)]="opcion"
+        />
+        <span class="pl-5px"> Definiciones </span>
+      </div>
+    </label>
+  </div>
+
+  
+
   <a class="boton-download">
     <div>
-      <input #inputFichero type="file" id="file-input" (change)="cargarArchivo($event)" />
+      <input
+        #inputFichero
+        type="file"
+        id="file-input"
+        (change)="cargarArchivo($event)"
+      />
     </div>
   </a>
 </div>
 
-
-
 <div class="content" role="main">
-  <div class="">
-    
-    <div style="text-align: center; position: relative; top: 40%;">
-      <h2 *ngIf="!test" class="animate__animated animate__backInDown display-5 text-center"> Debes seleccionar fichero
-        de test </h2>
-      <button class="btn btn-secondary btn-sm" #biniciar *ngIf="test" (click)="creaExamen()">Iniciar Examen</button>
+  <div class="mr-3">
+    <div style="text-align: center; position: relative; top: 40%">
+      <h2
+        *ngIf="!test"
+        class="animate__animated animate__backInDown display-5 text-center"
+      >
+        Debes seleccionar fichero de {{opcion === 'D' ? 'Definiciones': 'Test'}}
+      </h2>
+      <button
+        class="btn btn-secondary btn-sm"
+        #biniciar
+        *ngIf="test"
+        (click)="creaExamen()"
+      >
+        Iniciar Examen
+      </button>
     </div>
-    <div *ngIf="!hayPregunta()" class="test-body ">
+    <div *ngIf="!hayPregunta()" class="test-body">
       <div #body class="body-test animate__animated animate__fadeIn marco">
-        <p class="pregunta">{{pregunta.pregunta}}</p>
+        <p class="pregunta">{{ pregunta.pregunta }}</p>
         <label for="respuesta1">
           <div id="fila1" class="fila">
-            <input id="respuesta1" [value]='1' type="radio" name="respuestas" [(ngModel)]="seleccionada">
+            <input
+              id="respuesta1"
+              [value]="1"
+              type="radio"
+              name="respuestas"
+              [(ngModel)]="seleccionada"
+            />
             <span>
-              {{pregunta.respuesta1}}
-
+              {{ pregunta.respuesta1 }}
             </span>
-
           </div>
         </label>
         <label for="respuesta2">
           <div id="fila2" class="fila">
-            <input id="respuesta2" [value]='2' type="radio" name="respuestas" [(ngModel)]="seleccionada">
+            <input
+              id="respuesta2"
+              [value]="2"
+              type="radio"
+              name="respuestas"
+              [(ngModel)]="seleccionada"
+            />
             <span>
-              {{pregunta.respuesta2}}
-
+              {{ pregunta.respuesta2 }}
             </span>
-
           </div>
         </label>
         <label for="respuesta3">
           <div id="fila3" class="fila">
-            <input id="respuesta3" [value]='3' type="radio" name="respuestas" [(ngModel)]="seleccionada">
-              <span>
-              {{pregunta.respuesta3}}
-
+            <input
+              id="respuesta3"
+              [value]="3"
+              type="radio"
+              name="respuestas"
+              [(ngModel)]="seleccionada"
+            />
+            <span>
+              {{ pregunta.respuesta3 }}
             </span>
-
           </div>
         </label>
         <label for="respuesta4">
           <div id="fila4" class="fila">
-            <input id="respuesta4" [value]='4' type="radio" name="respuestas" [(ngModel)]="seleccionada">
+            <input
+              id="respuesta4"
+              [value]="4"
+              type="radio"
+              name="respuestas"
+              [(ngModel)]="seleccionada"
+            />
             <span>
-              {{pregunta.respuesta4}}
-
+              {{ pregunta.respuesta4 }}
             </span>
-
           </div>
         </label>
-          
       </div>
-      <button [disabled]=validarDisabled class="respuesta btn btn-secondary btn-sm" (click)='validar()'>Validar</button>
-      <button #siguiente *ngIf="haySiguiente()" [disabled]="disabled" class="respuesta btn btn-secondary btn-sm" (click)='siguientePregunta()'>Siguiente Pregunta..</button>
+      <button
+        [disabled]="validarDisabled"
+        class="respuesta btn btn-secondary btn-sm"
+        (click)="validar()"
+      >
+        Validar
+      </button>
+      <button
+        #siguiente
+        *ngIf="haySiguiente()"
+        [disabled]="disabled"
+        class="respuesta btn btn-secondary btn-sm"
+        (click)="siguientePregunta()"
+      >
+        Siguiente Pregunta..
+      </button>
     </div>
   </div>
-  <div class="resultados d-flex justify-content-between">
-    <p>Presunta: <span>{{contador}}</span></p>
-    <p>Acertadas: <span>{{acertadas}}</span></p>
-    <p>Falladas: <span>{{falladas}}</span></p>
+  <div *ngIf="opcion==='T'" class="resultados d-flex justify-content-between">
+    <p>
+      Pregunta: <span>{{ contador }}</span>
+    </p>
+    <p>
+      Acertadas: <span>{{ acertadas }}</span>
+    </p>
+    <p>
+      Falladas: <span>{{ falladas }}</span>
+    </p>
   </div>
 </div>
